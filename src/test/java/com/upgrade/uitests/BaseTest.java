@@ -35,11 +35,11 @@ public class BaseTest {
   @BeforeClass
   public void setupBrowser() {
 
-  if (ConfigManager.getInstance().getBrowser().equalsIgnoreCase("chrome")) {
+  if (System.getProperty("browser").equalsIgnoreCase("chrome")) {
       WebDriverManager.chromedriver().setup();
       driver = new ChromeDriver();
 
-    } else if (ConfigManager.getInstance().getBrowser().equalsIgnoreCase("ff")) {
+    } else if (System.getProperty("browser").equalsIgnoreCase("ff")) {
       WebDriverManager.firefoxdriver().setup();
       driver = new FirefoxDriver();
     } else {

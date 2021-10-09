@@ -14,130 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f726d263-9863-4f0e-895c-b807c9f8917e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/apipayload/BorrowerApiPayLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/api/payload/BorrowerApiPayLoadBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/apipojos/BorrowerAPIResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/api/pojos/BorrowerAPIResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/apipojos/BorrowerResumptionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/api/pojos/BorrowerResumptionInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/apipojos/LoanAppResumptionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/api/pojos/LoanAppResumptionInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/constants/AppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/constants/AppConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/constants/UpgradeAppErrorSuccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/constants/UpgradeAppErrorSuccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/enums/BasicInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/enums/BasicInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/enums/CreateAccountInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/enums/CreateAccountInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/enums/IncomeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/enums/IncomeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/enums/OfferInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/enums/OfferInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/listeners/ExtentReporterNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/listeners/ExtentReporterNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/listeners/UpgradeEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/listeners/UpgradeEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/BasicInfoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/BasicInfoPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/CheckRatePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/CheckRatePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/CreateAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/CreateAccountPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/IncomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/IncomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/OfferPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/OfferPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/tdo/LoanValidationObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/tdo/LoanValidationObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/testdata/upgradeCodeChallenge.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/testdata/upgradeCodeChallenge.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/utils/ActionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/utils/ActionUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/utils/TestDataProviderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/utils/TestDataProviderUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/utils/TestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/utils/TestUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/apiConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/apiConfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/apitest/BaseApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/apitest/BaseApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/apitest/UpgradeApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/apitest/UpgradeApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/BasicInfoCoJoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/BasicInfoCoJoinTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/BasicInfoIndividualTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/BasicInfoIndividualTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/CheckRatePageInvalidLoanAmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/CheckRatePageInvalidLoanAmtTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/CheckRatePagevalidLoanAmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/CheckRatePagevalidLoanAmtTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/EndToEndAccountValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/EndToEndAccountValidationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/apiConfig.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipayload/BorrowerApiPayLoad$BorrowerApiPayLoadBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipayload/BorrowerApiPayLoad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/BorrowerAPIResponse$BorrowerAPIResponseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/BorrowerAPIResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/BorrowerResumptionInfo$BorrowerResumptionInfoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/BorrowerResumptionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/LoanAppResumptionInfo$LoanAppResumptionInfoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/LoanAppResumptionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/constants/AppConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/constants/UpgradeAppErrorSuccess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/enums/BasicInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/enums/CreateAccountInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/enums/IncomeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/enums/OfferInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/listeners/ExtentReporterNG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/listeners/UpgradeEventListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/BasicInfoPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/CheckRatePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/CreateAccountPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/IncomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/OfferPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/tdo/LoanValidationObject$LoanValidationObjectBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/tdo/LoanValidationObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/utils/ActionUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/utils/TestDataProviderUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/utils/TestUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.apitest.UpgradeApiTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.BaseTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.BasicInfoCoJoinTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.BasicInfoIndividualTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.CheckRatePageInvalidLoanAmtTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.CheckRatePagevalidLoanAmtTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.EndToEndAccountValidationTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/Command line test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/apitest/BaseApiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/apitest/UpgradeApiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/BasicInfoCoJoinTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/BasicInfoIndividualTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/CheckRatePageInvalidLoanAmtTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/CheckRatePagevalidLoanAmtTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/EndToEndAccountValidationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,7 +200,7 @@
       <workItem from="1632587310344" duration="1372000" />
       <workItem from="1632618715547" duration="2107000" />
       <workItem from="1633040557162" duration="406000" />
-      <workItem from="1633744203786" duration="3157000" />
+      <workItem from="1633744203786" duration="3847000" />
     </task>
     <servers />
   </component>
