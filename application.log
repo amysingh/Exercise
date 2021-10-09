@@ -1,0 +1,508 @@
+2021-10-08 23:23:42,225  INFO [main] BaseTest:74 - Test completed successfully class com.upgrade.uitests.EndToEndAccountValidationTest
+2021-10-08 23:23:42,496 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:23:42,497 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:23:42,498 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:23:42,499 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:23:42,500 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:23:42,784 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:23:42,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:23:42,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:23:42,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:23:42,787 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:23:54,627  INFO [main] BaseTest:61 - Test completed successfully
+2021-10-08 23:23:54,638 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:23:54,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:23:54,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:23:54,642 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:23:54,644 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:23:54,721 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:23:54,723 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:23:54,724 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:23:54,725 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:23:54,725 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:06,736  INFO [main] BasicInfoIndividualTest:60 - Test completed successfully
+2021-10-08 23:24:06,742 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:24:06,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:24:06,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:24:06,744 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:24:06,745 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:06,876 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:24:06,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:24:06,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:24:06,889 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:24:06,889 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:14,685  INFO [main] BaseTest:37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+2021-10-08 23:24:15,061  INFO [main] BaseTest:37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+2021-10-08 23:24:15,520  INFO [main] BaseTest:37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+2021-10-08 23:24:15,878  INFO [main] BaseTest:37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+2021-10-08 23:24:16,249  INFO [main] BaseTest:37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+2021-10-08 23:24:16,624  INFO [main] BaseTest:37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+2021-10-08 23:24:16,628 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:24:16,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:24:16,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:24:16,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:24:16,631 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:16,667 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:24:16,668 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:24:16,668 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:24:16,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:24:16,670 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:25,404  INFO [main] BaseTest:47 - Test completed successfully
+2021-10-08 23:24:27,221  INFO [main] BaseTest:47 - Test completed successfully
+2021-10-08 23:24:28,744  INFO [main] BaseTest:47 - Test completed successfully
+2021-10-08 23:24:29,819  INFO [main] BaseTest:47 - Test completed successfully
+2021-10-08 23:24:30,957  INFO [main] BaseTest:47 - Test completed successfully
+2021-10-08 23:24:32,144  INFO [main] BaseTest:47 - Test completed successfully
+2021-10-08 23:24:32,150 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:24:32,150 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:24:32,151 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:24:32,152 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:24:32,153 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:32,215 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:24:32,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:24:32,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:24:32,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:24:32,218 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:35,977 DEBUG [main] BasicClientConnectionManager:161 - Get connection for route {s}->https://credapi.credify.tech:443
+2021-10-08 23:24:36,088 DEBUG [main] DefaultClientConnectionOperator:177 - Connecting to credapi.credify.tech:443
+2021-10-08 23:24:36,355 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2021-10-08 23:24:36,357 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2021-10-08 23:24:36,357 DEBUG [main] RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+2021-10-08 23:24:36,358 DEBUG [main] RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2021-10-08 23:24:36,359 DEBUG [main] DefaultHttpClient:682 - Attempt 1 to execute request
+2021-10-08 23:24:36,360 DEBUG [main] DefaultClientConnection:274 - Sending request: POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:36,361 DEBUG [main] wire:73 -  >> "POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+2021-10-08 23:24:36,362 DEBUG [main] wire:73 -  >> "x-cf-corr-id: ebad34b3-85a4-4ebc-a6c0-9de20e283f49[\r][\n]"
+2021-10-08 23:24:36,363 DEBUG [main] wire:73 -  >> "Accept: */*[\r][\n]"
+2021-10-08 23:24:36,364 DEBUG [main] wire:73 -  >> "x-cf-source-id: coding-challenge[\r][\n]"
+2021-10-08 23:24:36,364 DEBUG [main] wire:73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2021-10-08 23:24:36,365 DEBUG [main] wire:73 -  >> "Content-Length: 77[\r][\n]"
+2021-10-08 23:24:36,365 DEBUG [main] wire:73 -  >> "Host: credapi.credify.tech[\r][\n]"
+2021-10-08 23:24:36,365 DEBUG [main] wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2021-10-08 23:24:36,366 DEBUG [main] wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+2021-10-08 23:24:36,366 DEBUG [main] wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-10-08 23:24:36,367 DEBUG [main] wire:73 -  >> "[\r][\n]"
+2021-10-08 23:24:36,367 DEBUG [main] headers:278 - >> POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:36,367 DEBUG [main] headers:281 - >> x-cf-corr-id: ebad34b3-85a4-4ebc-a6c0-9de20e283f49
+2021-10-08 23:24:36,368 DEBUG [main] headers:281 - >> Accept: */*
+2021-10-08 23:24:36,368 DEBUG [main] headers:281 - >> x-cf-source-id: coding-challenge
+2021-10-08 23:24:36,369 DEBUG [main] headers:281 - >> Content-Type: application/json; charset=UTF-8
+2021-10-08 23:24:36,370 DEBUG [main] headers:281 - >> Content-Length: 77
+2021-10-08 23:24:36,371 DEBUG [main] headers:281 - >> Host: credapi.credify.tech
+2021-10-08 23:24:36,371 DEBUG [main] headers:281 - >> Connection: Keep-Alive
+2021-10-08 23:24:36,372 DEBUG [main] headers:281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+2021-10-08 23:24:36,372 DEBUG [main] headers:281 - >> Accept-Encoding: gzip,deflate
+2021-10-08 23:24:36,373 DEBUG [main] wire:87 -  >> "{"loanAppUuid":"c8096ec7-2150-405f-84f5-ae99864b3e96","skipSideEffects":true}"
+2021-10-08 23:24:36,520 DEBUG [main] wire:73 -  << "HTTP/1.1 404 Not Found[\r][\n]"
+2021-10-08 23:24:36,527 DEBUG [main] wire:73 -  << "Content-Type: application/json[\r][\n]"
+2021-10-08 23:24:36,528 DEBUG [main] wire:73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+2021-10-08 23:24:36,529 DEBUG [main] wire:73 -  << "x-content-type-options: nosniff[\r][\n]"
+2021-10-08 23:24:36,530 DEBUG [main] wire:73 -  << "x-xss-protection: 1; mode=block[\r][\n]"
+2021-10-08 23:24:36,531 DEBUG [main] wire:73 -  << "x-frame-options: DENY[\r][\n]"
+2021-10-08 23:24:36,532 DEBUG [main] wire:73 -  << "Server: istio-envoy[\r][\n]"
+2021-10-08 23:24:36,533 DEBUG [main] wire:73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+2021-10-08 23:24:36,534 DEBUG [main] wire:73 -  << "Content-Length: 190[\r][\n]"
+2021-10-08 23:24:36,535 DEBUG [main] wire:73 -  << "Expires: Sat, 09 Oct 2021 03:24:36 GMT[\r][\n]"
+2021-10-08 23:24:36,537 DEBUG [main] wire:73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+2021-10-08 23:24:36,539 DEBUG [main] wire:73 -  << "Pragma: no-cache[\r][\n]"
+2021-10-08 23:24:36,539 DEBUG [main] wire:73 -  << "Date: Sat, 09 Oct 2021 03:24:36 GMT[\r][\n]"
+2021-10-08 23:24:36,540 DEBUG [main] wire:73 -  << "Connection: close[\r][\n]"
+2021-10-08 23:24:36,541 DEBUG [main] wire:73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+2021-10-08 23:24:36,542 DEBUG [main] wire:73 -  << "Server-Timing: edge; dur=10[\r][\n]"
+2021-10-08 23:24:36,543 DEBUG [main] wire:73 -  << "Server-Timing: origin; dur=91[\r][\n]"
+2021-10-08 23:24:36,543 DEBUG [main] wire:73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+2021-10-08 23:24:36,544 DEBUG [main] wire:73 -  << "Set-Cookie: _abck=14B91504AE8212354E6C2AE9C34F8ED2~-1~YAAQHTUyFzennlh8AQAA3b8UYwZgk4rXl9BnUXjW4maz8t33BSAKfPQemQq7xiKFR7MxoRcNGAZB71BjBxplnMxlD+yVYAiftu0mcTHRizgtT4A5wNPoVLVrdo0zCq5fi0lIK/zCxr57Fs9Lqy1JYP8NssdkxG591Wqlvo5b5T816XTFTqFbAQu0qarsPZo4VtlXhb/5XNYfACRfEeTMtIci1W7gMnh7tu+NqqTl12FmsRa8r8i8V1kP1/1XSyYg4Oc4RMK5Sq8IhsK573+c77nWk/hqJzlXkdwQaWvqvM/IoCuE/jCOppMoTGp3HLVW7g1y6dn5HB7fGkbU1Ea6fqzRIP/6SNSEJ2NdKYoFY/CVFHJu09NyC2fo2M0T~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:36 GMT; Max-Age=31536000; Secure[\r][\n]"
+2021-10-08 23:24:36,544 DEBUG [main] wire:73 -  << "Set-Cookie: bm_sz=7CEB0559DA7C6043B31450BF6C27F429~YAAQHTUyFzinnlh8AQAA3b8UYw1pFA8zVxvSsrZj+ZQqhCyINLNA5o6wJD8kDCO+Ohu+avbFYVA7liW7RIXStE1jO/KyUA9H5wK3HwB+ScQhjqaqjS55pMhJ+eOQxS3uoC7/VmgLGTuWEWzTEH2pOzUlw4ooPr1WIBkI9ReiCGqapQgDteZZwaDmUY0DhDydkR7Yo0tFZuGQyDbb4T6LD/6rgR2faGV4tZaIGgtKhpzhgtsE0qOlI+Zbhg6i/RI2eeJYKPMGQedHNywIpmVOi5i0rWBSLsOSUHmakAHQa9Se1EZdLQ==~4600887~4338483; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:36 GMT; Max-Age=14400[\r][\n]"
+2021-10-08 23:24:36,545 DEBUG [main] wire:73 -  << "[\r][\n]"
+2021-10-08 23:24:36,546 DEBUG [main] DefaultClientConnection:259 - Receiving response: HTTP/1.1 404 Not Found
+2021-10-08 23:24:36,546 DEBUG [main] headers:262 - << HTTP/1.1 404 Not Found
+2021-10-08 23:24:36,547 DEBUG [main] headers:265 - << Content-Type: application/json
+2021-10-08 23:24:36,547 DEBUG [main] headers:265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+2021-10-08 23:24:36,548 DEBUG [main] headers:265 - << x-content-type-options: nosniff
+2021-10-08 23:24:36,548 DEBUG [main] headers:265 - << x-xss-protection: 1; mode=block
+2021-10-08 23:24:36,549 DEBUG [main] headers:265 - << x-frame-options: DENY
+2021-10-08 23:24:36,549 DEBUG [main] headers:265 - << Server: istio-envoy
+2021-10-08 23:24:36,550 DEBUG [main] headers:265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+2021-10-08 23:24:36,550 DEBUG [main] headers:265 - << Content-Length: 190
+2021-10-08 23:24:36,552 DEBUG [main] headers:265 - << Expires: Sat, 09 Oct 2021 03:24:36 GMT
+2021-10-08 23:24:36,555 DEBUG [main] headers:265 - << Cache-Control: max-age=0, no-cache
+2021-10-08 23:24:36,556 DEBUG [main] headers:265 - << Pragma: no-cache
+2021-10-08 23:24:36,556 DEBUG [main] headers:265 - << Date: Sat, 09 Oct 2021 03:24:36 GMT
+2021-10-08 23:24:36,557 DEBUG [main] headers:265 - << Connection: close
+2021-10-08 23:24:36,557 DEBUG [main] headers:265 - << Server-Timing: cdn-cache; desc=MISS
+2021-10-08 23:24:36,558 DEBUG [main] headers:265 - << Server-Timing: edge; dur=10
+2021-10-08 23:24:36,558 DEBUG [main] headers:265 - << Server-Timing: origin; dur=91
+2021-10-08 23:24:36,559 DEBUG [main] headers:265 - << X-Akamai-Staging: ESSL
+2021-10-08 23:24:36,559 DEBUG [main] headers:265 - << Set-Cookie: _abck=14B91504AE8212354E6C2AE9C34F8ED2~-1~YAAQHTUyFzennlh8AQAA3b8UYwZgk4rXl9BnUXjW4maz8t33BSAKfPQemQq7xiKFR7MxoRcNGAZB71BjBxplnMxlD+yVYAiftu0mcTHRizgtT4A5wNPoVLVrdo0zCq5fi0lIK/zCxr57Fs9Lqy1JYP8NssdkxG591Wqlvo5b5T816XTFTqFbAQu0qarsPZo4VtlXhb/5XNYfACRfEeTMtIci1W7gMnh7tu+NqqTl12FmsRa8r8i8V1kP1/1XSyYg4Oc4RMK5Sq8IhsK573+c77nWk/hqJzlXkdwQaWvqvM/IoCuE/jCOppMoTGp3HLVW7g1y6dn5HB7fGkbU1Ea6fqzRIP/6SNSEJ2NdKYoFY/CVFHJu09NyC2fo2M0T~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:36 GMT; Max-Age=31536000; Secure
+2021-10-08 23:24:36,560 DEBUG [main] headers:265 - << Set-Cookie: bm_sz=7CEB0559DA7C6043B31450BF6C27F429~YAAQHTUyFzinnlh8AQAA3b8UYw1pFA8zVxvSsrZj+ZQqhCyINLNA5o6wJD8kDCO+Ohu+avbFYVA7liW7RIXStE1jO/KyUA9H5wK3HwB+ScQhjqaqjS55pMhJ+eOQxS3uoC7/VmgLGTuWEWzTEH2pOzUlw4ooPr1WIBkI9ReiCGqapQgDteZZwaDmUY0DhDydkR7Yo0tFZuGQyDbb4T6LD/6rgR2faGV4tZaIGgtKhpzhgtsE0qOlI+Zbhg6i/RI2eeJYKPMGQedHNywIpmVOi5i0rWBSLsOSUHmakAHQa9Se1EZdLQ==~4600887~4338483; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:36 GMT; Max-Age=14400
+2021-10-08 23:24:36,593 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:545 - Parsing response as: application/json
+2021-10-08 23:24:36,593 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-10-08 23:24:36,712 DEBUG [main] wire:73 -  << "{[\n]"
+2021-10-08 23:24:36,712 DEBUG [main] wire:73 -  << "  "code" : 100001,[\n]"
+2021-10-08 23:24:36,712 DEBUG [main] wire:73 -  << "  "codeName" : "MISSING_LOAN_APPLICATION",[\n]"
+2021-10-08 23:24:36,713 DEBUG [main] wire:73 -  << "  "message" : "Loan application does not exist.",[\n]"
+2021-10-08 23:24:36,713 DEBUG [main] wire:73 -  << "  "retryable" : false,[\n]"
+2021-10-08 23:24:36,713 DEBUG [main] wire:73 -  << "  "type" : "ABNORMAL",[\n]"
+2021-10-08 23:24:36,713 DEBUG [main] wire:73 -  << "  "httpStatus" : "NOT_FOUND"[\n]"
+2021-10-08 23:24:36,713 DEBUG [main] wire:87 -  << "}"
+2021-10-08 23:24:36,714 DEBUG [main] BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@a1e912f
+2021-10-08 23:24:36,715 DEBUG [main] DefaultClientConnection:164 - Connection 0.0.0.0:52293<->23.50.53.33:443 shut down
+2021-10-08 23:24:36,775 DEBUG [main] BasicClientConnectionManager:161 - Get connection for route {s}->https://credapi.credify.tech:443
+2021-10-08 23:24:36,776 DEBUG [main] DefaultClientConnectionOperator:177 - Connecting to credapi.credify.tech:443
+2021-10-08 23:24:36,941 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2021-10-08 23:24:36,943 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2021-10-08 23:24:36,946 DEBUG [main] RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+2021-10-08 23:24:36,948 DEBUG [main] RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2021-10-08 23:24:36,950 DEBUG [main] DefaultHttpClient:682 - Attempt 1 to execute request
+2021-10-08 23:24:36,952 DEBUG [main] DefaultClientConnection:274 - Sending request: POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:36,956 DEBUG [main] wire:73 -  >> "POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+2021-10-08 23:24:36,958 DEBUG [main] wire:73 -  >> "Accept: */*[\r][\n]"
+2021-10-08 23:24:36,959 DEBUG [main] wire:73 -  >> "Wrong-coding-challenge: coding-challenge[\r][\n]"
+2021-10-08 23:24:36,962 DEBUG [main] wire:73 -  >> "12341232123223: 78e98d62-525d-42ef-ae37-7f1dec17ec1e[\r][\n]"
+2021-10-08 23:24:36,964 DEBUG [main] wire:73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2021-10-08 23:24:36,966 DEBUG [main] wire:73 -  >> "Content-Length: 77[\r][\n]"
+2021-10-08 23:24:36,968 DEBUG [main] wire:73 -  >> "Host: credapi.credify.tech[\r][\n]"
+2021-10-08 23:24:36,970 DEBUG [main] wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2021-10-08 23:24:36,974 DEBUG [main] wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+2021-10-08 23:24:36,976 DEBUG [main] wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-10-08 23:24:36,978 DEBUG [main] wire:73 -  >> "[\r][\n]"
+2021-10-08 23:24:36,980 DEBUG [main] headers:278 - >> POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:36,982 DEBUG [main] headers:281 - >> Accept: */*
+2021-10-08 23:24:36,984 DEBUG [main] headers:281 - >> Wrong-coding-challenge: coding-challenge
+2021-10-08 23:24:36,985 DEBUG [main] headers:281 - >> 12341232123223: 78e98d62-525d-42ef-ae37-7f1dec17ec1e
+2021-10-08 23:24:36,989 DEBUG [main] headers:281 - >> Content-Type: application/json; charset=UTF-8
+2021-10-08 23:24:36,990 DEBUG [main] headers:281 - >> Content-Length: 77
+2021-10-08 23:24:36,991 DEBUG [main] headers:281 - >> Host: credapi.credify.tech
+2021-10-08 23:24:36,993 DEBUG [main] headers:281 - >> Connection: Keep-Alive
+2021-10-08 23:24:36,994 DEBUG [main] headers:281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+2021-10-08 23:24:36,995 DEBUG [main] headers:281 - >> Accept-Encoding: gzip,deflate
+2021-10-08 23:24:36,996 DEBUG [main] wire:87 -  >> "{"loanAppUuid":"b8096ec7-2150-405f-84f5-ae99864b3e96","skipSideEffects":true}"
+2021-10-08 23:24:37,131 DEBUG [main] wire:73 -  << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+2021-10-08 23:24:37,132 DEBUG [main] wire:73 -  << "Content-Type: application/json[\r][\n]"
+2021-10-08 23:24:37,133 DEBUG [main] wire:73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+2021-10-08 23:24:37,134 DEBUG [main] wire:73 -  << "Server: istio-envoy[\r][\n]"
+2021-10-08 23:24:37,135 DEBUG [main] wire:73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+2021-10-08 23:24:37,137 DEBUG [main] wire:73 -  << "Expires: Sat, 09 Oct 2021 03:24:37 GMT[\r][\n]"
+2021-10-08 23:24:37,139 DEBUG [main] wire:73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+2021-10-08 23:24:37,140 DEBUG [main] wire:73 -  << "Pragma: no-cache[\r][\n]"
+2021-10-08 23:24:37,141 DEBUG [main] wire:73 -  << "Date: Sat, 09 Oct 2021 03:24:37 GMT[\r][\n]"
+2021-10-08 23:24:37,141 DEBUG [main] wire:73 -  << "Transfer-Encoding:  chunked[\r][\n]"
+2021-10-08 23:24:37,142 DEBUG [main] wire:73 -  << "Connection: close[\r][\n]"
+2021-10-08 23:24:37,143 DEBUG [main] wire:73 -  << "Connection: Transfer-Encoding[\r][\n]"
+2021-10-08 23:24:37,144 DEBUG [main] wire:73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+2021-10-08 23:24:37,145 DEBUG [main] wire:73 -  << "Server-Timing: edge; dur=8[\r][\n]"
+2021-10-08 23:24:37,146 DEBUG [main] wire:73 -  << "Server-Timing: origin; dur=90[\r][\n]"
+2021-10-08 23:24:37,147 DEBUG [main] wire:73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+2021-10-08 23:24:37,148 DEBUG [main] wire:73 -  << "Set-Cookie: _abck=C0DBA1EC170E6D3B3F2533D783A04854~-1~YAAQHTUyFzqnnlh8AQAASMIUYwYQi1rpnE9w1DhPDOcia/A6jhWYAR/bKmR/pm81ODx8/W/LaDLpKwsGFVIj4sBHHXLIqALL5tn2YthbHvAJtKkT9M8MhFlyhdo2czintC92NZERXf8TTXBHTXRxwwN3M1Z2jLJl4S9xOkysSjg5Xq1Xyf2F1g15UmOXSy/+MnIGKRv2JEmpPayNHuVRisVPkH1vu2Q6NupY+JUjqpc7Auz8eWW6IuQw/Qtcc5MCv59w7bay+aVVfcf5bEeHZmrqWe+S1aumL3YB52azIRVJgj7BwYy/mYjhn/FhWwiJKWPXkV71TLBJlw77aNWtGWrvxQGm02kM65Vwezv8f3kD62WmYxCrzwKx6gh6~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure[\r][\n]"
+2021-10-08 23:24:37,150 DEBUG [main] wire:73 -  << "Set-Cookie: bm_sz=B890422196CF5B210FDB8283D294E07B~YAAQHTUyFzunnlh8AQAASMIUYw0Q8VWEDUeI63yoyq5eEqh3wqqKVA45GQR7WRteuFidUkP7GypZLHB52ipT2yQVWs5fNQRw0YEzGC4seL9O/xzY98M/CwsyceoRVwfFtPbbyADrDQlTW8WIe7d7dF2R+BqIJuX8AvEsx2zZ26ZpXLum+9HCGGwXPuGHwv0BtvA/vd/AXLQ9d1f94qmfJRAPgQnnIVDAm2K2Bki9bZn1yvX7JcyzQ/sDl0hf727jkqFy3E2A2nB6QhaD3I2e+RbnweCpUcu1a4C6853IWDxYrz6dUw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400[\r][\n]"
+2021-10-08 23:24:37,151 DEBUG [main] wire:73 -  << "[\r][\n]"
+2021-10-08 23:24:37,152 DEBUG [main] DefaultClientConnection:259 - Receiving response: HTTP/1.1 500 Internal Server Error
+2021-10-08 23:24:37,153 DEBUG [main] headers:262 - << HTTP/1.1 500 Internal Server Error
+2021-10-08 23:24:37,154 DEBUG [main] headers:265 - << Content-Type: application/json
+2021-10-08 23:24:37,155 DEBUG [main] headers:265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+2021-10-08 23:24:37,155 DEBUG [main] headers:265 - << Server: istio-envoy
+2021-10-08 23:24:37,156 DEBUG [main] headers:265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+2021-10-08 23:24:37,157 DEBUG [main] headers:265 - << Expires: Sat, 09 Oct 2021 03:24:37 GMT
+2021-10-08 23:24:37,158 DEBUG [main] headers:265 - << Cache-Control: max-age=0, no-cache
+2021-10-08 23:24:37,158 DEBUG [main] headers:265 - << Pragma: no-cache
+2021-10-08 23:24:37,159 DEBUG [main] headers:265 - << Date: Sat, 09 Oct 2021 03:24:37 GMT
+2021-10-08 23:24:37,160 DEBUG [main] headers:265 - << Transfer-Encoding:  chunked
+2021-10-08 23:24:37,160 DEBUG [main] headers:265 - << Connection: close
+2021-10-08 23:24:37,161 DEBUG [main] headers:265 - << Connection: Transfer-Encoding
+2021-10-08 23:24:37,161 DEBUG [main] headers:265 - << Server-Timing: cdn-cache; desc=MISS
+2021-10-08 23:24:37,162 DEBUG [main] headers:265 - << Server-Timing: edge; dur=8
+2021-10-08 23:24:37,163 DEBUG [main] headers:265 - << Server-Timing: origin; dur=90
+2021-10-08 23:24:37,163 DEBUG [main] headers:265 - << X-Akamai-Staging: ESSL
+2021-10-08 23:24:37,163 DEBUG [main] headers:265 - << Set-Cookie: _abck=C0DBA1EC170E6D3B3F2533D783A04854~-1~YAAQHTUyFzqnnlh8AQAASMIUYwYQi1rpnE9w1DhPDOcia/A6jhWYAR/bKmR/pm81ODx8/W/LaDLpKwsGFVIj4sBHHXLIqALL5tn2YthbHvAJtKkT9M8MhFlyhdo2czintC92NZERXf8TTXBHTXRxwwN3M1Z2jLJl4S9xOkysSjg5Xq1Xyf2F1g15UmOXSy/+MnIGKRv2JEmpPayNHuVRisVPkH1vu2Q6NupY+JUjqpc7Auz8eWW6IuQw/Qtcc5MCv59w7bay+aVVfcf5bEeHZmrqWe+S1aumL3YB52azIRVJgj7BwYy/mYjhn/FhWwiJKWPXkV71TLBJlw77aNWtGWrvxQGm02kM65Vwezv8f3kD62WmYxCrzwKx6gh6~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure
+2021-10-08 23:24:37,164 DEBUG [main] headers:265 - << Set-Cookie: bm_sz=B890422196CF5B210FDB8283D294E07B~YAAQHTUyFzunnlh8AQAASMIUYw0Q8VWEDUeI63yoyq5eEqh3wqqKVA45GQR7WRteuFidUkP7GypZLHB52ipT2yQVWs5fNQRw0YEzGC4seL9O/xzY98M/CwsyceoRVwfFtPbbyADrDQlTW8WIe7d7dF2R+BqIJuX8AvEsx2zZ26ZpXLum+9HCGGwXPuGHwv0BtvA/vd/AXLQ9d1f94qmfJRAPgQnnIVDAm2K2Bki9bZn1yvX7JcyzQ/sDl0hf727jkqFy3E2A2nB6QhaD3I2e+RbnweCpUcu1a4C6853IWDxYrz6dUw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400
+2021-10-08 23:24:37,171 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:545 - Parsing response as: application/json
+2021-10-08 23:24:37,171 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-10-08 23:24:37,175 DEBUG [main] wire:73 -  << "000000AE[\r][\n]"
+2021-10-08 23:24:37,176 DEBUG [main] wire:73 -  << "{[\n]"
+2021-10-08 23:24:37,176 DEBUG [main] wire:73 -  << "  "timestamp" : "2021-10-09T03:24:37.286Z",[\n]"
+2021-10-08 23:24:37,176 DEBUG [main] wire:73 -  << "  "status" : 500,[\n]"
+2021-10-08 23:24:37,176 DEBUG [main] wire:73 -  << "  "error" : "Internal Server Error",[\n]"
+2021-10-08 23:24:37,176 DEBUG [main] wire:73 -  << "  "message" : "",[\n]"
+2021-10-08 23:24:37,176 DEBUG [main] wire:73 -  << "  "path" : "/api/brfunnelorch/v2/resume/byLeadSecret"[\n]"
+2021-10-08 23:24:37,176 DEBUG [main] wire:87 -  << "}"
+2021-10-08 23:24:37,177 DEBUG [main] wire:73 -  << "[\r][\n]"
+2021-10-08 23:24:37,177 DEBUG [main] wire:73 -  << "00000000[\r][\n]"
+2021-10-08 23:24:37,177 DEBUG [main] wire:73 -  << "[\r][\n]"
+2021-10-08 23:24:37,177 DEBUG [main] BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@296676c4
+2021-10-08 23:24:37,178 DEBUG [main] DefaultClientConnection:164 - Connection 0.0.0.0:52295<->23.50.53.33:443 shut down
+2021-10-08 23:24:37,215 DEBUG [main] BasicClientConnectionManager:161 - Get connection for route {s}->https://credapi.credify.tech:443
+2021-10-08 23:24:37,216 DEBUG [main] DefaultClientConnectionOperator:177 - Connecting to credapi.credify.tech:443
+2021-10-08 23:24:37,365 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2021-10-08 23:24:37,366 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2021-10-08 23:24:37,367 DEBUG [main] RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+2021-10-08 23:24:37,367 DEBUG [main] RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2021-10-08 23:24:37,368 DEBUG [main] DefaultHttpClient:682 - Attempt 1 to execute request
+2021-10-08 23:24:37,368 DEBUG [main] DefaultClientConnection:274 - Sending request: GET /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:37,370 DEBUG [main] wire:73 -  >> "GET /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+2021-10-08 23:24:37,372 DEBUG [main] wire:73 -  >> "x-cf-corr-id: 080023a5-34a4-42e9-9afc-87ecca61b8ca[\r][\n]"
+2021-10-08 23:24:37,373 DEBUG [main] wire:73 -  >> "Accept: */*[\r][\n]"
+2021-10-08 23:24:37,373 DEBUG [main] wire:73 -  >> "x-cf-source-id: coding-challenge[\r][\n]"
+2021-10-08 23:24:37,374 DEBUG [main] wire:73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2021-10-08 23:24:37,374 DEBUG [main] wire:73 -  >> "Content-Length: 77[\r][\n]"
+2021-10-08 23:24:37,375 DEBUG [main] wire:73 -  >> "Host: credapi.credify.tech[\r][\n]"
+2021-10-08 23:24:37,375 DEBUG [main] wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2021-10-08 23:24:37,376 DEBUG [main] wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+2021-10-08 23:24:37,376 DEBUG [main] wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-10-08 23:24:37,376 DEBUG [main] wire:73 -  >> "[\r][\n]"
+2021-10-08 23:24:37,377 DEBUG [main] headers:278 - >> GET /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:37,377 DEBUG [main] headers:281 - >> x-cf-corr-id: 080023a5-34a4-42e9-9afc-87ecca61b8ca
+2021-10-08 23:24:37,377 DEBUG [main] headers:281 - >> Accept: */*
+2021-10-08 23:24:37,378 DEBUG [main] headers:281 - >> x-cf-source-id: coding-challenge
+2021-10-08 23:24:37,378 DEBUG [main] headers:281 - >> Content-Type: application/json; charset=UTF-8
+2021-10-08 23:24:37,378 DEBUG [main] headers:281 - >> Content-Length: 77
+2021-10-08 23:24:37,379 DEBUG [main] headers:281 - >> Host: credapi.credify.tech
+2021-10-08 23:24:37,379 DEBUG [main] headers:281 - >> Connection: Keep-Alive
+2021-10-08 23:24:37,379 DEBUG [main] headers:281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+2021-10-08 23:24:37,380 DEBUG [main] headers:281 - >> Accept-Encoding: gzip,deflate
+2021-10-08 23:24:37,380 DEBUG [main] wire:87 -  >> "{"loanAppUuid":"b8096ec7-2150-405f-84f5-ae99864b3e96","skipSideEffects":true}"
+2021-10-08 23:24:37,503 DEBUG [main] wire:73 -  << "HTTP/1.1 405 Method Not Allowed[\r][\n]"
+2021-10-08 23:24:37,506 DEBUG [main] wire:73 -  << "Content-Type: application/json[\r][\n]"
+2021-10-08 23:24:37,508 DEBUG [main] wire:73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+2021-10-08 23:24:37,510 DEBUG [main] wire:73 -  << "x-content-type-options: nosniff[\r][\n]"
+2021-10-08 23:24:37,511 DEBUG [main] wire:73 -  << "x-xss-protection: 1; mode=block[\r][\n]"
+2021-10-08 23:24:37,512 DEBUG [main] wire:73 -  << "x-frame-options: DENY[\r][\n]"
+2021-10-08 23:24:37,513 DEBUG [main] wire:73 -  << "Server: istio-envoy[\r][\n]"
+2021-10-08 23:24:37,514 DEBUG [main] wire:73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+2021-10-08 23:24:37,515 DEBUG [main] wire:73 -  << "Expires: Sat, 09 Oct 2021 03:24:37 GMT[\r][\n]"
+2021-10-08 23:24:37,515 DEBUG [main] wire:73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+2021-10-08 23:24:37,516 DEBUG [main] wire:73 -  << "Pragma: no-cache[\r][\n]"
+2021-10-08 23:24:37,517 DEBUG [main] wire:73 -  << "Date: Sat, 09 Oct 2021 03:24:37 GMT[\r][\n]"
+2021-10-08 23:24:37,518 DEBUG [main] wire:73 -  << "Transfer-Encoding:  chunked[\r][\n]"
+2021-10-08 23:24:37,520 DEBUG [main] wire:73 -  << "Connection: keep-alive[\r][\n]"
+2021-10-08 23:24:37,521 DEBUG [main] wire:73 -  << "Connection: Transfer-Encoding[\r][\n]"
+2021-10-08 23:24:37,521 DEBUG [main] wire:73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+2021-10-08 23:24:37,522 DEBUG [main] wire:73 -  << "Server-Timing: edge; dur=4[\r][\n]"
+2021-10-08 23:24:37,523 DEBUG [main] wire:73 -  << "Server-Timing: origin; dur=78[\r][\n]"
+2021-10-08 23:24:37,523 DEBUG [main] wire:73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+2021-10-08 23:24:37,524 DEBUG [main] wire:73 -  << "Set-Cookie: _abck=2D7A046B3154F359C52898D111183153~-1~YAAQHTUyFzynnlh8AQAAusMUYwZBgKx2U6ohPdef5nOT35SGBa+NUaakrLlGovQwCB7NDwbD+ehd4tomIS2aeYPm59QMyLKPjbZ0tstoprfViYvcGclYX02+mWZZ+KRUX1W50bvSsEIMihqKk9zIpSK1jW8cTOEqYuNqrym7t4kxGvZkFTlsOIuwnaW5Hxgr8hTxUpEUp0h2cjyV/8FWmPx+s8u5pspeHCNFILm1E6CBoc6KG/D6fM/lBjMWVR5WsiOXDBMepbQEOwaWB13lQ1SZms+YNcYD83/I5FzhtutCn6s9P+5o+v/QocfXDDQgHnPAiRSqfMHzyLuZ2h22YM/xoyfgRY0e2t5uMDQ7x9FnKOq8B2Aworvwynu5~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure[\r][\n]"
+2021-10-08 23:24:37,525 DEBUG [main] wire:73 -  << "Set-Cookie: bm_sz=3D6654AF09CE5FA634E60A99C2F771DC~YAAQHTUyFz2nnlh8AQAAusMUYw2+kghwr0rho4/Mj9bsM3DBEQXdaFZbuzxfyzptFbSqMC+N7Ap7Iqc1nk9A62yGO5jtOXrYoX3Tea9SSYLxJeEkv0/FWdZaYBpElTM7f6e+K89tJOPasQdKZxWlJ8wbg4yYsWtEZPMX30nKLDwKiaLcK0SnzQ2UYSAslLL8cVP422b6GUw9qSQOP59i/1fp9LpbeEb80Rh781d7ryEFzE8MTEv4eDj/xew5N3IGohoIph2u2fWpE8IriIIHf21/GeadvuLXw8IetheVGk5pIvP/AQ==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400[\r][\n]"
+2021-10-08 23:24:37,526 DEBUG [main] wire:73 -  << "[\r][\n]"
+2021-10-08 23:24:37,527 DEBUG [main] DefaultClientConnection:259 - Receiving response: HTTP/1.1 405 Method Not Allowed
+2021-10-08 23:24:37,527 DEBUG [main] headers:262 - << HTTP/1.1 405 Method Not Allowed
+2021-10-08 23:24:37,528 DEBUG [main] headers:265 - << Content-Type: application/json
+2021-10-08 23:24:37,528 DEBUG [main] headers:265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+2021-10-08 23:24:37,528 DEBUG [main] headers:265 - << x-content-type-options: nosniff
+2021-10-08 23:24:37,529 DEBUG [main] headers:265 - << x-xss-protection: 1; mode=block
+2021-10-08 23:24:37,529 DEBUG [main] headers:265 - << x-frame-options: DENY
+2021-10-08 23:24:37,529 DEBUG [main] headers:265 - << Server: istio-envoy
+2021-10-08 23:24:37,529 DEBUG [main] headers:265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+2021-10-08 23:24:37,530 DEBUG [main] headers:265 - << Expires: Sat, 09 Oct 2021 03:24:37 GMT
+2021-10-08 23:24:37,530 DEBUG [main] headers:265 - << Cache-Control: max-age=0, no-cache
+2021-10-08 23:24:37,531 DEBUG [main] headers:265 - << Pragma: no-cache
+2021-10-08 23:24:37,531 DEBUG [main] headers:265 - << Date: Sat, 09 Oct 2021 03:24:37 GMT
+2021-10-08 23:24:37,532 DEBUG [main] headers:265 - << Transfer-Encoding:  chunked
+2021-10-08 23:24:37,532 DEBUG [main] headers:265 - << Connection: keep-alive
+2021-10-08 23:24:37,533 DEBUG [main] headers:265 - << Connection: Transfer-Encoding
+2021-10-08 23:24:37,533 DEBUG [main] headers:265 - << Server-Timing: cdn-cache; desc=MISS
+2021-10-08 23:24:37,533 DEBUG [main] headers:265 - << Server-Timing: edge; dur=4
+2021-10-08 23:24:37,533 DEBUG [main] headers:265 - << Server-Timing: origin; dur=78
+2021-10-08 23:24:37,533 DEBUG [main] headers:265 - << X-Akamai-Staging: ESSL
+2021-10-08 23:24:37,534 DEBUG [main] headers:265 - << Set-Cookie: _abck=2D7A046B3154F359C52898D111183153~-1~YAAQHTUyFzynnlh8AQAAusMUYwZBgKx2U6ohPdef5nOT35SGBa+NUaakrLlGovQwCB7NDwbD+ehd4tomIS2aeYPm59QMyLKPjbZ0tstoprfViYvcGclYX02+mWZZ+KRUX1W50bvSsEIMihqKk9zIpSK1jW8cTOEqYuNqrym7t4kxGvZkFTlsOIuwnaW5Hxgr8hTxUpEUp0h2cjyV/8FWmPx+s8u5pspeHCNFILm1E6CBoc6KG/D6fM/lBjMWVR5WsiOXDBMepbQEOwaWB13lQ1SZms+YNcYD83/I5FzhtutCn6s9P+5o+v/QocfXDDQgHnPAiRSqfMHzyLuZ2h22YM/xoyfgRY0e2t5uMDQ7x9FnKOq8B2Aworvwynu5~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure
+2021-10-08 23:24:37,534 DEBUG [main] headers:265 - << Set-Cookie: bm_sz=3D6654AF09CE5FA634E60A99C2F771DC~YAAQHTUyFz2nnlh8AQAAusMUYw2+kghwr0rho4/Mj9bsM3DBEQXdaFZbuzxfyzptFbSqMC+N7Ap7Iqc1nk9A62yGO5jtOXrYoX3Tea9SSYLxJeEkv0/FWdZaYBpElTM7f6e+K89tJOPasQdKZxWlJ8wbg4yYsWtEZPMX30nKLDwKiaLcK0SnzQ2UYSAslLL8cVP422b6GUw9qSQOP59i/1fp9LpbeEb80Rh781d7ryEFzE8MTEv4eDj/xew5N3IGohoIph2u2fWpE8IriIIHf21/GeadvuLXw8IetheVGk5pIvP/AQ==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400
+2021-10-08 23:24:37,535 DEBUG [main] DefaultHttpClient:509 - Connection can be kept alive indefinitely
+2021-10-08 23:24:37,537 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:545 - Parsing response as: application/json
+2021-10-08 23:24:37,537 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-10-08 23:24:37,567 DEBUG [main] BasicClientConnectionManager:161 - Get connection for route {s}->https://credapi.credify.tech:443
+2021-10-08 23:24:37,567 DEBUG [main] DefaultClientConnectionOperator:177 - Connecting to credapi.credify.tech:443
+2021-10-08 23:24:37,703 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2021-10-08 23:24:37,704 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2021-10-08 23:24:37,704 DEBUG [main] RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+2021-10-08 23:24:37,705 DEBUG [main] RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2021-10-08 23:24:37,705 DEBUG [main] DefaultHttpClient:682 - Attempt 1 to execute request
+2021-10-08 23:24:37,706 DEBUG [main] DefaultClientConnection:274 - Sending request: POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:37,706 DEBUG [main] wire:73 -  >> "POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+2021-10-08 23:24:37,706 DEBUG [main] wire:73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2021-10-08 23:24:37,707 DEBUG [main] wire:73 -  >> "x-cf-corr-id: 71428ee3-94b7-4b49-8426-1fece75c9624[\r][\n]"
+2021-10-08 23:24:37,707 DEBUG [main] wire:73 -  >> "Accept: */*[\r][\n]"
+2021-10-08 23:24:37,708 DEBUG [main] wire:73 -  >> "x-cf-source-id: coding-challenge[\r][\n]"
+2021-10-08 23:24:37,708 DEBUG [main] wire:73 -  >> "Content-Length: 0[\r][\n]"
+2021-10-08 23:24:37,709 DEBUG [main] wire:73 -  >> "Host: credapi.credify.tech[\r][\n]"
+2021-10-08 23:24:37,709 DEBUG [main] wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2021-10-08 23:24:37,710 DEBUG [main] wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+2021-10-08 23:24:37,710 DEBUG [main] wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-10-08 23:24:37,710 DEBUG [main] wire:73 -  >> "[\r][\n]"
+2021-10-08 23:24:37,711 DEBUG [main] headers:278 - >> POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:37,711 DEBUG [main] headers:281 - >> Content-Type: application/json; charset=UTF-8
+2021-10-08 23:24:37,712 DEBUG [main] headers:281 - >> x-cf-corr-id: 71428ee3-94b7-4b49-8426-1fece75c9624
+2021-10-08 23:24:37,712 DEBUG [main] headers:281 - >> Accept: */*
+2021-10-08 23:24:37,712 DEBUG [main] headers:281 - >> x-cf-source-id: coding-challenge
+2021-10-08 23:24:37,713 DEBUG [main] headers:281 - >> Content-Length: 0
+2021-10-08 23:24:37,713 DEBUG [main] headers:281 - >> Host: credapi.credify.tech
+2021-10-08 23:24:37,713 DEBUG [main] headers:281 - >> Connection: Keep-Alive
+2021-10-08 23:24:37,714 DEBUG [main] headers:281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+2021-10-08 23:24:37,714 DEBUG [main] headers:281 - >> Accept-Encoding: gzip,deflate
+2021-10-08 23:24:37,836 DEBUG [main] wire:73 -  << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+2021-10-08 23:24:37,841 DEBUG [main] wire:73 -  << "Content-Type: application/json[\r][\n]"
+2021-10-08 23:24:37,843 DEBUG [main] wire:73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+2021-10-08 23:24:37,848 DEBUG [main] wire:73 -  << "x-content-type-options: nosniff[\r][\n]"
+2021-10-08 23:24:37,851 DEBUG [main] wire:73 -  << "x-xss-protection: 1; mode=block[\r][\n]"
+2021-10-08 23:24:37,856 DEBUG [main] wire:73 -  << "x-frame-options: DENY[\r][\n]"
+2021-10-08 23:24:37,860 DEBUG [main] wire:73 -  << "Server: istio-envoy[\r][\n]"
+2021-10-08 23:24:37,862 DEBUG [main] wire:73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+2021-10-08 23:24:37,865 DEBUG [main] wire:73 -  << "Expires: Sat, 09 Oct 2021 03:24:38 GMT[\r][\n]"
+2021-10-08 23:24:37,868 DEBUG [main] wire:73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+2021-10-08 23:24:37,871 DEBUG [main] wire:73 -  << "Pragma: no-cache[\r][\n]"
+2021-10-08 23:24:37,875 DEBUG [main] wire:73 -  << "Date: Sat, 09 Oct 2021 03:24:38 GMT[\r][\n]"
+2021-10-08 23:24:37,877 DEBUG [main] wire:73 -  << "Transfer-Encoding:  chunked[\r][\n]"
+2021-10-08 23:24:37,878 DEBUG [main] wire:73 -  << "Connection: close[\r][\n]"
+2021-10-08 23:24:37,879 DEBUG [main] wire:73 -  << "Connection: Transfer-Encoding[\r][\n]"
+2021-10-08 23:24:37,881 DEBUG [main] wire:73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+2021-10-08 23:24:37,882 DEBUG [main] wire:73 -  << "Server-Timing: edge; dur=7[\r][\n]"
+2021-10-08 23:24:37,883 DEBUG [main] wire:73 -  << "Server-Timing: origin; dur=74[\r][\n]"
+2021-10-08 23:24:37,884 DEBUG [main] wire:73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+2021-10-08 23:24:37,885 DEBUG [main] wire:73 -  << "Set-Cookie: _abck=8D7BC5D1CD0AF6D49BF35E13290BE422~-1~YAAQHTUyFz6nnlh8AQAABcUUYwaj9a60NXjcFFgySy5INlRz7f+WJ5riC99cGvdgaZYRGogG6JcrasGqnogAx9OkmK1BHud44JVUiKno+OzBRV7W2hVSwC/QGJwtBKp357Bpz5CKNZSMFa+baH0ojUXhNqe5Vtnp51McdlRRyEGTcSZ7Nylf+Hyr5Gyln0hiEPFOdYiy8TjqbNB2ix/LtOf6ayY/f/sryWrFEuVmANBrrmsR2AdVU12+THWrO02GuMNx8XLWGggZUlIkAoPYwHLaOfkXTkKQJux5D0VYuYhkcqGyKn6jYkU3F+sb4vma6REaGAhvcoTRGzESdvhT7aC2ZOSw56Prjrqp4BkNApdPosoRp9FEFW5dwEZG~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure[\r][\n]"
+2021-10-08 23:24:37,887 DEBUG [main] wire:73 -  << "Set-Cookie: bm_sz=6164FEA6CC2315AF8DC5522C9751FA97~YAAQHTUyFz+nnlh8AQAABcUUYw23Q/6pwDDxV3Bsw/bVXJBBglxOyzrbAmkgAbAkosgeDd43K+OgfwFqUuciRtwupdL7uzNkFU14Oigdq8bRz2RBExWCpM/RsgHKaTbMwaHqt+F13b/h/TBDyBzgj30Q6AdK7Iczw5f2lDWmWeXoxiiDy/6wXiKaCDb7X8w3nAcGbL3iDztkqElJf2Vsj5AF2buBt3yG8Q+0UvTTKOmzN63tdaiSjKZ7yDoaHdraiUzoyV87Q/gTlRAbu388gIUFa2kDZqY5eFtXOyCNZ55rHCD6Kw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14399[\r][\n]"
+2021-10-08 23:24:37,888 DEBUG [main] wire:73 -  << "[\r][\n]"
+2021-10-08 23:24:37,889 DEBUG [main] DefaultClientConnection:259 - Receiving response: HTTP/1.1 500 Internal Server Error
+2021-10-08 23:24:37,890 DEBUG [main] headers:262 - << HTTP/1.1 500 Internal Server Error
+2021-10-08 23:24:37,890 DEBUG [main] headers:265 - << Content-Type: application/json
+2021-10-08 23:24:37,891 DEBUG [main] headers:265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+2021-10-08 23:24:37,891 DEBUG [main] headers:265 - << x-content-type-options: nosniff
+2021-10-08 23:24:37,893 DEBUG [main] headers:265 - << x-xss-protection: 1; mode=block
+2021-10-08 23:24:37,893 DEBUG [main] headers:265 - << x-frame-options: DENY
+2021-10-08 23:24:37,894 DEBUG [main] headers:265 - << Server: istio-envoy
+2021-10-08 23:24:37,895 DEBUG [main] headers:265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+2021-10-08 23:24:37,895 DEBUG [main] headers:265 - << Expires: Sat, 09 Oct 2021 03:24:38 GMT
+2021-10-08 23:24:37,896 DEBUG [main] headers:265 - << Cache-Control: max-age=0, no-cache
+2021-10-08 23:24:37,897 DEBUG [main] headers:265 - << Pragma: no-cache
+2021-10-08 23:24:37,897 DEBUG [main] headers:265 - << Date: Sat, 09 Oct 2021 03:24:38 GMT
+2021-10-08 23:24:37,898 DEBUG [main] headers:265 - << Transfer-Encoding:  chunked
+2021-10-08 23:24:37,899 DEBUG [main] headers:265 - << Connection: close
+2021-10-08 23:24:37,899 DEBUG [main] headers:265 - << Connection: Transfer-Encoding
+2021-10-08 23:24:37,900 DEBUG [main] headers:265 - << Server-Timing: cdn-cache; desc=MISS
+2021-10-08 23:24:37,901 DEBUG [main] headers:265 - << Server-Timing: edge; dur=7
+2021-10-08 23:24:37,903 DEBUG [main] headers:265 - << Server-Timing: origin; dur=74
+2021-10-08 23:24:37,904 DEBUG [main] headers:265 - << X-Akamai-Staging: ESSL
+2021-10-08 23:24:37,904 DEBUG [main] headers:265 - << Set-Cookie: _abck=8D7BC5D1CD0AF6D49BF35E13290BE422~-1~YAAQHTUyFz6nnlh8AQAABcUUYwaj9a60NXjcFFgySy5INlRz7f+WJ5riC99cGvdgaZYRGogG6JcrasGqnogAx9OkmK1BHud44JVUiKno+OzBRV7W2hVSwC/QGJwtBKp357Bpz5CKNZSMFa+baH0ojUXhNqe5Vtnp51McdlRRyEGTcSZ7Nylf+Hyr5Gyln0hiEPFOdYiy8TjqbNB2ix/LtOf6ayY/f/sryWrFEuVmANBrrmsR2AdVU12+THWrO02GuMNx8XLWGggZUlIkAoPYwHLaOfkXTkKQJux5D0VYuYhkcqGyKn6jYkU3F+sb4vma6REaGAhvcoTRGzESdvhT7aC2ZOSw56Prjrqp4BkNApdPosoRp9FEFW5dwEZG~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure
+2021-10-08 23:24:37,905 DEBUG [main] headers:265 - << Set-Cookie: bm_sz=6164FEA6CC2315AF8DC5522C9751FA97~YAAQHTUyFz+nnlh8AQAABcUUYw23Q/6pwDDxV3Bsw/bVXJBBglxOyzrbAmkgAbAkosgeDd43K+OgfwFqUuciRtwupdL7uzNkFU14Oigdq8bRz2RBExWCpM/RsgHKaTbMwaHqt+F13b/h/TBDyBzgj30Q6AdK7Iczw5f2lDWmWeXoxiiDy/6wXiKaCDb7X8w3nAcGbL3iDztkqElJf2Vsj5AF2buBt3yG8Q+0UvTTKOmzN63tdaiSjKZ7yDoaHdraiUzoyV87Q/gTlRAbu388gIUFa2kDZqY5eFtXOyCNZ55rHCD6Kw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14399
+2021-10-08 23:24:37,906 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:545 - Parsing response as: application/json
+2021-10-08 23:24:37,906 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-10-08 23:24:37,930 DEBUG [main] BasicClientConnectionManager:161 - Get connection for route {s}->https://credapi.credify.tech:443
+2021-10-08 23:24:37,932 DEBUG [main] DefaultClientConnectionOperator:177 - Connecting to credapi.credify.tech:443
+2021-10-08 23:24:38,096 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2021-10-08 23:24:38,098 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2021-10-08 23:24:38,100 DEBUG [main] RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+2021-10-08 23:24:38,101 DEBUG [main] RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2021-10-08 23:24:38,104 DEBUG [main] DefaultHttpClient:682 - Attempt 1 to execute request
+2021-10-08 23:24:38,106 DEBUG [main] DefaultClientConnection:274 - Sending request: POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:38,107 DEBUG [main] wire:73 -  >> "POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+2021-10-08 23:24:38,108 DEBUG [main] wire:73 -  >> "x-cf-corr-id: 18cc766f-57d8-4e8a-952f-218800812cfa[\r][\n]"
+2021-10-08 23:24:38,109 DEBUG [main] wire:73 -  >> "Accept: */*[\r][\n]"
+2021-10-08 23:24:38,110 DEBUG [main] wire:73 -  >> "x-cf-source-id: coding-challenge[\r][\n]"
+2021-10-08 23:24:38,111 DEBUG [main] wire:73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2021-10-08 23:24:38,112 DEBUG [main] wire:73 -  >> "Content-Length: 77[\r][\n]"
+2021-10-08 23:24:38,113 DEBUG [main] wire:73 -  >> "Host: credapi.credify.tech[\r][\n]"
+2021-10-08 23:24:38,113 DEBUG [main] wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2021-10-08 23:24:38,115 DEBUG [main] wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+2021-10-08 23:24:38,116 DEBUG [main] wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-10-08 23:24:38,116 DEBUG [main] wire:73 -  >> "[\r][\n]"
+2021-10-08 23:24:38,117 DEBUG [main] headers:278 - >> POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+2021-10-08 23:24:38,118 DEBUG [main] headers:281 - >> x-cf-corr-id: 18cc766f-57d8-4e8a-952f-218800812cfa
+2021-10-08 23:24:38,119 DEBUG [main] headers:281 - >> Accept: */*
+2021-10-08 23:24:38,120 DEBUG [main] headers:281 - >> x-cf-source-id: coding-challenge
+2021-10-08 23:24:38,121 DEBUG [main] headers:281 - >> Content-Type: application/json; charset=UTF-8
+2021-10-08 23:24:38,121 DEBUG [main] headers:281 - >> Content-Length: 77
+2021-10-08 23:24:38,122 DEBUG [main] headers:281 - >> Host: credapi.credify.tech
+2021-10-08 23:24:38,123 DEBUG [main] headers:281 - >> Connection: Keep-Alive
+2021-10-08 23:24:38,124 DEBUG [main] headers:281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+2021-10-08 23:24:38,124 DEBUG [main] headers:281 - >> Accept-Encoding: gzip,deflate
+2021-10-08 23:24:38,125 DEBUG [main] wire:87 -  >> "{"loanAppUuid":"b8096ec7-2150-405f-84f5-ae99864b3e96","skipSideEffects":true}"
+2021-10-08 23:24:38,789 DEBUG [main] wire:73 -  << "HTTP/1.1 200 OK[\r][\n]"
+2021-10-08 23:24:38,791 DEBUG [main] wire:73 -  << "Content-Type: application/json[\r][\n]"
+2021-10-08 23:24:38,791 DEBUG [main] wire:73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+2021-10-08 23:24:38,792 DEBUG [main] wire:73 -  << "x-content-type-options: nosniff[\r][\n]"
+2021-10-08 23:24:38,793 DEBUG [main] wire:73 -  << "x-xss-protection: 1; mode=block[\r][\n]"
+2021-10-08 23:24:38,794 DEBUG [main] wire:73 -  << "x-frame-options: DENY[\r][\n]"
+2021-10-08 23:24:38,794 DEBUG [main] wire:73 -  << "Server: istio-envoy[\r][\n]"
+2021-10-08 23:24:38,795 DEBUG [main] wire:73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+2021-10-08 23:24:38,796 DEBUG [main] wire:73 -  << "Content-Length: 1036[\r][\n]"
+2021-10-08 23:24:38,797 DEBUG [main] wire:73 -  << "Expires: Sat, 09 Oct 2021 03:24:38 GMT[\r][\n]"
+2021-10-08 23:24:38,798 DEBUG [main] wire:73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+2021-10-08 23:24:38,798 DEBUG [main] wire:73 -  << "Pragma: no-cache[\r][\n]"
+2021-10-08 23:24:38,799 DEBUG [main] wire:73 -  << "Date: Sat, 09 Oct 2021 03:24:38 GMT[\r][\n]"
+2021-10-08 23:24:38,800 DEBUG [main] wire:73 -  << "Connection: keep-alive[\r][\n]"
+2021-10-08 23:24:38,801 DEBUG [main] wire:73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+2021-10-08 23:24:38,802 DEBUG [main] wire:73 -  << "Server-Timing: edge; dur=7[\r][\n]"
+2021-10-08 23:24:38,803 DEBUG [main] wire:73 -  << "Server-Timing: origin; dur=619[\r][\n]"
+2021-10-08 23:24:38,804 DEBUG [main] wire:73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+2021-10-08 23:24:38,805 DEBUG [main] wire:73 -  << "Set-Cookie: _abck=37938097FE32F552D2ED27FCA4A4C7AA~-1~YAAQHTUyF0Gnnlh8AQAAw8gUYwagB/jZBpYXk3P3l8VOKizNnjdAQ9Jpk5HFpCiEuG1//FCxp9ynBHims6g0C60yi+osoD/BI68EkEoshBwWqstHVv++U+SQkCJqRPLfAjyO7M7oxf7umf/YQ5QdSwQko3e7+oy8QHsqEuQPEMwAjUKieSXQEDZURdCBZ6N4JNzs2mIdNnIE+VH+IQA/PuMK0kYolP3weXrrORiTxFiSzM3WaBa+xw1w60296Egyy9zMIvK1ZpGiIpeoavKba/hagWhk2aA+6P00cL/CpRnG9n+87Xz0I7BAiONwPYxHshXROTZQeVPfLWqluJU0/YTP6qwiAByl/HTO1uxCtZQxHSlFLpFi0ftVdF0+~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure[\r][\n]"
+2021-10-08 23:24:38,806 DEBUG [main] wire:73 -  << "Set-Cookie: bm_sz=4B7C1EC04A10E056E46258AD6FAC1E3B~YAAQHTUyF0Knnlh8AQAAw8gUYw2c5AAFYQmfqszhkw81SEYsxPAO3/gFjdu59t6sElvId6sUbbkYMUykkxv/sSCG+VAsi8UgYlyQxuPx7ZoHLdlM9fzAE1acIX50FWqQhjaY6pJcAVbvYK3Vc99qJsiUgGIoOeYmrxDXmMrtfa7YXCLKhfsayHYsErM5k5MraMI7PfJc5LIVmzM4uA0PyULY6ByEKGIyisRCXsGBrZSCeKSFy+Wj7sjUB81HUHjexi5DYJU8+O2WSD3e1ic/4RUM7UGdZOydcs6KSL5AILNwF/ICxw==~3622193~4272441; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:38 GMT; Max-Age=14400[\r][\n]"
+2021-10-08 23:24:38,806 DEBUG [main] wire:73 -  << "[\r][\n]"
+2021-10-08 23:24:38,807 DEBUG [main] DefaultClientConnection:259 - Receiving response: HTTP/1.1 200 OK
+2021-10-08 23:24:38,808 DEBUG [main] headers:262 - << HTTP/1.1 200 OK
+2021-10-08 23:24:38,809 DEBUG [main] headers:265 - << Content-Type: application/json
+2021-10-08 23:24:38,810 DEBUG [main] headers:265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+2021-10-08 23:24:38,811 DEBUG [main] headers:265 - << x-content-type-options: nosniff
+2021-10-08 23:24:38,811 DEBUG [main] headers:265 - << x-xss-protection: 1; mode=block
+2021-10-08 23:24:38,812 DEBUG [main] headers:265 - << x-frame-options: DENY
+2021-10-08 23:24:38,813 DEBUG [main] headers:265 - << Server: istio-envoy
+2021-10-08 23:24:38,813 DEBUG [main] headers:265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+2021-10-08 23:24:38,814 DEBUG [main] headers:265 - << Content-Length: 1036
+2021-10-08 23:24:38,815 DEBUG [main] headers:265 - << Expires: Sat, 09 Oct 2021 03:24:38 GMT
+2021-10-08 23:24:38,816 DEBUG [main] headers:265 - << Cache-Control: max-age=0, no-cache
+2021-10-08 23:24:38,817 DEBUG [main] headers:265 - << Pragma: no-cache
+2021-10-08 23:24:38,817 DEBUG [main] headers:265 - << Date: Sat, 09 Oct 2021 03:24:38 GMT
+2021-10-08 23:24:38,818 DEBUG [main] headers:265 - << Connection: keep-alive
+2021-10-08 23:24:38,819 DEBUG [main] headers:265 - << Server-Timing: cdn-cache; desc=MISS
+2021-10-08 23:24:38,820 DEBUG [main] headers:265 - << Server-Timing: edge; dur=7
+2021-10-08 23:24:38,821 DEBUG [main] headers:265 - << Server-Timing: origin; dur=619
+2021-10-08 23:24:38,822 DEBUG [main] headers:265 - << X-Akamai-Staging: ESSL
+2021-10-08 23:24:38,822 DEBUG [main] headers:265 - << Set-Cookie: _abck=37938097FE32F552D2ED27FCA4A4C7AA~-1~YAAQHTUyF0Gnnlh8AQAAw8gUYwagB/jZBpYXk3P3l8VOKizNnjdAQ9Jpk5HFpCiEuG1//FCxp9ynBHims6g0C60yi+osoD/BI68EkEoshBwWqstHVv++U+SQkCJqRPLfAjyO7M7oxf7umf/YQ5QdSwQko3e7+oy8QHsqEuQPEMwAjUKieSXQEDZURdCBZ6N4JNzs2mIdNnIE+VH+IQA/PuMK0kYolP3weXrrORiTxFiSzM3WaBa+xw1w60296Egyy9zMIvK1ZpGiIpeoavKba/hagWhk2aA+6P00cL/CpRnG9n+87Xz0I7BAiONwPYxHshXROTZQeVPfLWqluJU0/YTP6qwiAByl/HTO1uxCtZQxHSlFLpFi0ftVdF0+~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure
+2021-10-08 23:24:38,823 DEBUG [main] headers:265 - << Set-Cookie: bm_sz=4B7C1EC04A10E056E46258AD6FAC1E3B~YAAQHTUyF0Knnlh8AQAAw8gUYw2c5AAFYQmfqszhkw81SEYsxPAO3/gFjdu59t6sElvId6sUbbkYMUykkxv/sSCG+VAsi8UgYlyQxuPx7ZoHLdlM9fzAE1acIX50FWqQhjaY6pJcAVbvYK3Vc99qJsiUgGIoOeYmrxDXmMrtfa7YXCLKhfsayHYsErM5k5MraMI7PfJc5LIVmzM4uA0PyULY6ByEKGIyisRCXsGBrZSCeKSFy+Wj7sjUB81HUHjexi5DYJU8+O2WSD3e1ic/4RUM7UGdZOydcs6KSL5AILNwF/ICxw==~3622193~4272441; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:38 GMT; Max-Age=14400
+2021-10-08 23:24:38,824 DEBUG [main] DefaultHttpClient:509 - Connection can be kept alive indefinitely
+2021-10-08 23:24:38,825 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:545 - Parsing response as: application/json
+2021-10-08 23:24:38,826 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-10-08 23:24:38,830 DEBUG [main] wire:73 -  << "{[\n]"
+2021-10-08 23:24:38,830 DEBUG [main] wire:73 -  << "  "loanAppResumptionInfo" : {[\n]"
+2021-10-08 23:24:38,830 DEBUG [main] wire:73 -  << "    "loanAppId" : 101856971,[\n]"
+2021-10-08 23:24:38,831 DEBUG [main] wire:73 -  << "    "loanAppUuid" : "8ac5ae24-b5b0-4025-8913-c731afad69ec",[\n]"
+2021-10-08 23:24:38,831 DEBUG [main] wire:73 -  << "    "referrer" : "LENDING_TREE",[\n]"
+2021-10-08 23:24:38,831 DEBUG [main] wire:73 -  << "    "status" : "EXPIRED",[\n]"
+2021-10-08 23:24:38,831 DEBUG [main] wire:73 -  << "    "productType" : "PERSONAL_LOAN",[\n]"
+2021-10-08 23:24:38,832 DEBUG [main] wire:73 -  << "    "sourceSystem" : "PARTNER_FUNNEL_V2",[\n]"
+2021-10-08 23:24:38,832 DEBUG [main] wire:73 -  << "    "desiredAmount" : 25000.00,[\n]"
+2021-10-08 23:24:38,832 DEBUG [main] wire:73 -  << "    "borrowerResumptionInfo" : {[\n]"
+2021-10-08 23:24:38,832 DEBUG [main] wire:73 -  << "      "firstName" : "Benjamin",[\n]"
+2021-10-08 23:24:38,833 DEBUG [main] wire:73 -  << "      "maskedEmail" : "q********6@upgrade.com",[\n]"
+2021-10-08 23:24:38,833 DEBUG [main] wire:73 -  << "      "ssnRequired" : false,[\n]"
+2021-10-08 23:24:38,833 DEBUG [main] wire:73 -  << "      "state" : "OH",[\n]"
+2021-10-08 23:24:38,833 DEBUG [main] wire:73 -  << "      "email" : "qa.preprod210618211325366@upgrade.com"[\n]"
+2021-10-08 23:24:38,834 DEBUG [main] wire:73 -  << "    },[\n]"
+2021-10-08 23:24:38,835 DEBUG [main] wire:73 -  << "    "coBorrowerResumptionInfo" : null,[\n]"
+2021-10-08 23:24:38,836 DEBUG [main] wire:73 -  << "    "turnDown" : false,[\n]"
+2021-10-08 23:24:38,836 DEBUG [main] wire:73 -  << "    "hasLogin" : false,[\n]"
+2021-10-08 23:24:38,837 DEBUG [main] wire:73 -  << "    "availableAppImprovements" : null,[\n]"
+2021-10-08 23:24:38,837 DEBUG [main] wire:73 -  << "    "cashOutAmount" : null,[\n]"
+2021-10-08 23:24:38,837 DEBUG [main] wire:73 -  << "    "canAddCollateral" : false,[\n]"
+2021-10-08 23:24:38,837 DEBUG [main] wire:73 -  << "    "rewardProgramId" : null,[\n]"
+2021-10-08 23:24:38,838 DEBUG [main] wire:73 -  << "    "rewardProgramCode" : null,[\n]"
+2021-10-08 23:24:38,838 DEBUG [main] wire:73 -  << "    "addon" : null,[\n]"
+2021-10-08 23:24:38,838 DEBUG [main] wire:73 -  << "    "isMobileDiscountApplied" : null,[\n]"
+2021-10-08 23:24:38,839 DEBUG [main] wire:73 -  << "    "checkingDiscountAvailable" : false[\n]"
+2021-10-08 23:24:38,839 DEBUG [main] wire:73 -  << "  },[\n]"
+2021-10-08 23:24:38,839 DEBUG [main] wire:73 -  << "  "offers" : [ ],[\n]"
+2021-10-08 23:24:38,839 DEBUG [main] wire:73 -  << "  "selectedOffer" : null,[\n]"
+2021-10-08 23:24:38,840 DEBUG [main] wire:73 -  << "  "requiredAgreements" : [ ],[\n]"
+2021-10-08 23:24:38,840 DEBUG [main] wire:73 -  << "  "resetOptions" : [ "LEAD_SECRET", "WIPE", "DEACTIVATE_USER" ],[\n]"
+2021-10-08 23:24:38,840 DEBUG [main] wire:73 -  << "  "originalLoanApp" : null[\n]"
+2021-10-08 23:24:38,842 DEBUG [main] wire:87 -  << "}"
+2021-10-08 23:24:38,842 DEBUG [main] BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@349f3ff7
+2021-10-08 23:24:38,842 DEBUG [main] BasicClientConnectionManager:225 - Connection can be kept alive indefinitely
+2021-10-08 23:24:38,942 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:24:38,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:24:38,943 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:24:38,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:24:38,944 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:39,021 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-08 23:24:39,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-08 23:24:39,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-08 23:24:39,023 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-08 23:24:39,023 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-08 23:24:39,423 DEBUG [Finalizer] DefaultClientConnection:180 - Connection 0.0.0.0:56079<->23.50.53.33:443 closed
+2021-10-08 23:24:39,425 DEBUG [Finalizer] DefaultClientConnection:180 - Connection 0.0.0.0:56080<->23.50.53.33:443 closed
+2021-10-08 23:24:39,427 DEBUG [Finalizer] DefaultClientConnection:180 - Connection 0.0.0.0:56081<->23.50.53.33:443 closed

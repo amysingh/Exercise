@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f726d263-9863-4f0e-895c-b807c9f8917e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/apipayload/BorrowerApiPayLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/api/payload/BorrowerApiPayLoadBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/apipojos/BorrowerAPIResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/api/pojos/BorrowerAPIResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/apipojos/BorrowerResumptionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/api/pojos/BorrowerResumptionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/apipojos/LoanAppResumptionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/api/pojos/LoanAppResumptionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/constants/AppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/constants/AppConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/constants/UpgradeAppErrorSuccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/constants/UpgradeAppErrorSuccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/enums/BasicInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/enums/BasicInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/enums/CreateAccountInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/enums/CreateAccountInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/enums/IncomeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/enums/IncomeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/enums/OfferInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/enums/OfferInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/listeners/ExtentReporterNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/listeners/ExtentReporterNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/listeners/UpgradeEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/listeners/UpgradeEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/BasicInfoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/BasicInfoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/CheckRatePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/CheckRatePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/CreateAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/CreateAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/IncomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/IncomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/OfferPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/OfferPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/pages/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/pages/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/tdo/LoanValidationObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/tdo/LoanValidationObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/testdata/upgradeCodeChallenge.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/testdata/upgradeCodeChallenge.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/utils/ActionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/utils/ActionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/utils/TestDataProviderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/utils/TestDataProviderUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrade/utils/TestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrade/ui/utils/TestUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/apiConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/apiConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/apitest/BaseApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/apitest/BaseApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/apitest/UpgradeApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/apitest/UpgradeApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/BasicInfoCoJoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/BasicInfoCoJoinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/BasicInfoIndividualTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/BasicInfoIndividualTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/CheckRatePageInvalidLoanAmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/CheckRatePageInvalidLoanAmtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/CheckRatePagevalidLoanAmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/CheckRatePagevalidLoanAmtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgrade/tests/EndToEndAccountValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgrade/uitests/EndToEndAccountValidationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/apiConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipayload/BorrowerApiPayLoad$BorrowerApiPayLoadBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipayload/BorrowerApiPayLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/BorrowerAPIResponse$BorrowerAPIResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/BorrowerAPIResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/BorrowerResumptionInfo$BorrowerResumptionInfoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/BorrowerResumptionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/LoanAppResumptionInfo$LoanAppResumptionInfoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/apipojos/LoanAppResumptionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/constants/AppConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/constants/UpgradeAppErrorSuccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/enums/BasicInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/enums/CreateAccountInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/enums/IncomeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/enums/OfferInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/listeners/ExtentReporterNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/listeners/UpgradeEventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/BasicInfoPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/CheckRatePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/CreateAccountPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/IncomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/OfferPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/pages/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/tdo/LoanValidationObject$LoanValidationObjectBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/tdo/LoanValidationObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/utils/ActionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/utils/TestDataProviderUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrade/utils/TestUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.apitest.UpgradeApiTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.BaseTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.BasicInfoCoJoinTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.BasicInfoIndividualTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.CheckRatePageInvalidLoanAmtTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.CheckRatePagevalidLoanAmtTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.upgrade.tests.EndToEndAccountValidationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/Command line test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/apitest/BaseApiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/apitest/UpgradeApiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/BasicInfoCoJoinTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/BasicInfoIndividualTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/CheckRatePageInvalidLoanAmtTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/CheckRatePagevalidLoanAmtTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/upgrade/tests/EndToEndAccountValidationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentReport.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xMhdooraTtjclKReAKwTNjVbQj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\New folder\QaCodingChallengeUpgrade\src\main\java\com\upgrade\ui\testdata" />
+      <recent name="C:\dev\workspace\QaCodingChallengeUpgrade" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\New folder\QaCodingChallengeUpgrade" />
+      <recent name="C:\dev\New folder\QaCodingChallengeUpgrade\src\main\java\com\upgrade\ui\utils" />
+      <recent name="C:\dev\workspace\QaCodingChallengeUpgrade\src\main\java\com\upgrade\testdata" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.upgrade.api.specbuilder" />
+      <recent name="com.upgrade.tests" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.upgrade.pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PracticeClass">
+    <configuration name="PracticeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrade.ui.pages.PracticeClass" />
+      <module name="QaCodingChallengeUpgrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrade.ui.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/dev/workspace/QaCodingChallengeUpgrade/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaCodingChallengeUpgrade" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndToEndAccountValidationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaCodingChallengeUpgrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrade.uitests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.upgrade.uitests" />
+      <option name="MAIN_CLASS_NAME" value="com.upgrade.uitests.EndToEndAccountValidationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndToEndAccountValidationTest.endToEndQaChallengeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaCodingChallengeUpgrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrade.uitests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.upgrade.uitests" />
+      <option name="MAIN_CLASS_NAME" value="com.upgrade.uitests.EndToEndAccountValidationTest" />
+      <option name="METHOD_NAME" value="endToEndQaChallengeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpgradeApiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaCodingChallengeUpgrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrade.apitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.upgrade.apitest" />
+      <option name="MAIN_CLASS_NAME" value="com.upgrade.apitest.UpgradeApiTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PracticeClass" />
+      <item itemvalue="TestNG.UpgradeApiTest" />
+      <item itemvalue="TestNG.C:/dev/workspace/QaCodingChallengeUpgrade/src/main/resources/testng.xml" />
+      <item itemvalue="TestNG.EndToEndAccountValidationTest.endToEndQaChallengeTest" />
+      <item itemvalue="TestNG.EndToEndAccountValidationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PracticeClass" />
+        <item itemvalue="TestNG.EndToEndAccountValidationTest" />
+        <item itemvalue="TestNG.UpgradeApiTest" />
+        <item itemvalue="TestNG.EndToEndAccountValidationTest.endToEndQaChallengeTest" />
+        <item itemvalue="TestNG.C:/dev/workspace/QaCodingChallengeUpgrade/src/main/resources/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f726d263-9863-4f0e-895c-b807c9f8917e" name="Default Changelist" comment="" />
+      <created>1630170958445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630170958445</updated>
+      <workItem from="1630170961378" duration="105326000" />
+      <workItem from="1630468550851" duration="22256000" />
+      <workItem from="1630692015310" duration="2705000" />
+      <workItem from="1630757150617" duration="13934000" />
+      <workItem from="1630855176303" duration="39237000" />
+      <workItem from="1631057369897" duration="10638000" />
+      <workItem from="1631461079313" duration="9273000" />
+      <workItem from="1631842210203" duration="583000" />
+      <workItem from="1631966557330" duration="3540000" />
+      <workItem from="1632143469590" duration="13000" />
+      <workItem from="1632143763307" duration="708000" />
+      <workItem from="1632162964471" duration="286000" />
+      <workItem from="1632179370917" duration="5096000" />
+      <workItem from="1632587310344" duration="1372000" />
+      <workItem from="1632618715547" duration="2107000" />
+      <workItem from="1633040557162" duration="406000" />
+      <workItem from="1633744203786" duration="3157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630477411200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630477411200" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1632586231499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1632586231499" />
+    <state x="585" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1630910247139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630910247139" />
+    <state x="537" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1630918789039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630918789039" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1633038181203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1633038181203" />
+    <state width="1877" height="244" key="GridCell.Tab.0.bottom" timestamp="1632586132045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1632586132045" />
+    <state width="1877" height="244" key="GridCell.Tab.0.center" timestamp="1632586132044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1632586132044" />
+    <state width="1877" height="244" key="GridCell.Tab.0.left" timestamp="1632586132044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1632586132044" />
+    <state width="1877" height="244" key="GridCell.Tab.0.right" timestamp="1632586132044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1632586132044" />
+    <state width="1877" height="238" key="GridCell.Tab.1.bottom" timestamp="1630477427407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="238" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630477427407" />
+    <state width="1877" height="238" key="GridCell.Tab.1.center" timestamp="1630477427406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="238" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630477427406" />
+    <state width="1877" height="238" key="GridCell.Tab.1.left" timestamp="1630477427406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="238" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630477427406" />
+    <state width="1877" height="238" key="GridCell.Tab.1.right" timestamp="1630477427407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="238" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630477427407" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1630258375650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630258375650" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1632580761386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1632580761386" />
+    <state x="510" y="256" width="899" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1630475486602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="256" width="899" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1630475486602" />
+    <state x="690" y="281" key="extract.method.dialog" timestamp="1630929832096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="281" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630929832096" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1630433489371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630433489371" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1632580824455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1632580824455" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

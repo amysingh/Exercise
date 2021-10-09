@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Upgrade Qa Challenge" duration-ms="92721" started-at="2021-10-09T03:23:06Z" finished-at="2021-10-09T03:24:38Z">
+    <groups>
+    </groups>
+    <test name="Upgrade Test Cases" duration-ms="92721" started-at="2021-10-09T03:23:06Z" finished-at="2021-10-09T03:24:38Z">
+      <class name="com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="setupBrowser" is-config="true" duration-ms="5891" started-at="2021-10-09T03:24:07Z" finished-at="2021-10-09T03:24:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="testSetup" is-config="true" duration-ms="0" started-at="2021-10-09T03:24:13Z" finished-at="2021-10-09T03:24:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="checkRateTest" duration-ms="760" started-at="2021-10-09T03:24:13Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pay off Credit Cards]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="extentEnd" is-config="true" duration-ms="9" started-at="2021-10-09T03:24:14Z" finished-at="2021-10-09T03:24:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePageInvalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="checkRateTest" duration-ms="366" started-at="2021-10-09T03:24:14Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Debt Consolidation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="extentEnd" is-config="true" duration-ms="5" started-at="2021-10-09T03:24:15Z" finished-at="2021-10-09T03:24:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePageInvalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="checkRateTest" duration-ms="454" started-at="2021-10-09T03:24:15Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Business]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="extentEnd" is-config="true" duration-ms="4" started-at="2021-10-09T03:24:15Z" finished-at="2021-10-09T03:24:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePageInvalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="checkRateTest" duration-ms="355" started-at="2021-10-09T03:24:15Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home Improvement]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="extentEnd" is-config="true" duration-ms="5" started-at="2021-10-09T03:24:15Z" finished-at="2021-10-09T03:24:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePageInvalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="checkRateTest" duration-ms="365" started-at="2021-10-09T03:24:15Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Large Purchase]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="extentEnd" is-config="true" duration-ms="2" started-at="2021-10-09T03:24:16Z" finished-at="2021-10-09T03:24:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePageInvalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="checkRateTest" duration-ms="372" started-at="2021-10-09T03:24:16Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Other]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="extentEnd" is-config="true" duration-ms="3" started-at="2021-10-09T03:24:16Z" finished-at="2021-10-09T03:24:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePageInvalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="endExtent()[pri:0, instance:com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest@71423665]" name="endExtent" is-config="true" duration-ms="955" started-at="2021-10-09T03:24:16Z" finished-at="2021-10-09T03:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtent -->
+      </class> <!-- com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest -->
+      <class name="com.upgrade.apitest.UpgradeApiTest">
+        <test-method status="PASS" signature="upgradeAPIWithInValidLoanAppIdTest()[pri:0, instance:com.upgrade.apitest.UpgradeApiTest@6fc6f14e]" name="upgradeAPIWithInValidLoanAppIdTest" duration-ms="3389" started-at="2021-10-09T03:24:33Z" finished-at="2021-10-09T03:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upgradeAPIWithInValidLoanAppIdTest -->
+        <test-method status="PASS" signature="upgradeAPIWithInvalidHeadersTest()[pri:0, instance:com.upgrade.apitest.UpgradeApiTest@6fc6f14e]" name="upgradeAPIWithInvalidHeadersTest" duration-ms="436" started-at="2021-10-09T03:24:36Z" finished-at="2021-10-09T03:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upgradeAPIWithInvalidHeadersTest -->
+        <test-method status="PASS" signature="upgradeAPIWithInvalidMethodTest()[pri:0, instance:com.upgrade.apitest.UpgradeApiTest@6fc6f14e]" name="upgradeAPIWithInvalidMethodTest" duration-ms="361" started-at="2021-10-09T03:24:37Z" finished-at="2021-10-09T03:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upgradeAPIWithInvalidMethodTest -->
+        <test-method status="PASS" signature="upgradeAPIWithNoPayLoadTest()[pri:0, instance:com.upgrade.apitest.UpgradeApiTest@6fc6f14e]" name="upgradeAPIWithNoPayLoadTest" duration-ms="368" started-at="2021-10-09T03:24:37Z" finished-at="2021-10-09T03:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upgradeAPIWithNoPayLoadTest -->
+        <test-method status="PASS" signature="upgradeAPIWithValidLoanAppIdTest()[pri:0, instance:com.upgrade.apitest.UpgradeApiTest@6fc6f14e]" name="upgradeAPIWithValidLoanAppIdTest" duration-ms="973" started-at="2021-10-09T03:24:37Z" finished-at="2021-10-09T03:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upgradeAPIWithValidLoanAppIdTest -->
+      </class> <!-- com.upgrade.apitest.UpgradeApiTest -->
+      <class name="com.upgrade.uitests.BasicInfoIndividualTest">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:com.upgrade.uitests.BasicInfoIndividualTest@2ac273d3]" name="setupBrowser" is-config="true" duration-ms="6112" started-at="2021-10-09T03:23:55Z" finished-at="2021-10-09T03:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.upgrade.uitests.BasicInfoIndividualTest@2ac273d3]" name="testSetup" is-config="true" duration-ms="0" started-at="2021-10-09T03:24:01Z" finished-at="2021-10-09T03:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="basicInfoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.BasicInfoIndividualTest@2ac273d3]" name="basicInfoTest" duration-ms="4788" started-at="2021-10-09T03:24:01Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Molson]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hellostreet1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[city1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[121212.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11/11//1987]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicInfoTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.BasicInfoIndividualTest@2ac273d3]" name="extentEnd" is-config="true" duration-ms="4" started-at="2021-10-09T03:24:06Z" finished-at="2021-10-09T03:24:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=basicInfoTest status=SUCCESS method=BasicInfoIndividualTest.basicInfoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.BasicInfoIndividualTest@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="endExtent()[pri:0, instance:com.upgrade.uitests.BasicInfoIndividualTest@2ac273d3]" name="endExtent" is-config="true" duration-ms="1245" started-at="2021-10-09T03:24:06Z" finished-at="2021-10-09T03:24:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtent -->
+      </class> <!-- com.upgrade.uitests.BasicInfoIndividualTest -->
+      <class name="com.upgrade.uitests.CheckRatePagevalidLoanAmtTest">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="setupBrowser" is-config="true" duration-ms="5903" started-at="2021-10-09T03:24:17Z" finished-at="2021-10-09T03:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="testSetup" is-config="true" duration-ms="0" started-at="2021-10-09T03:24:23Z" finished-at="2021-10-09T03:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="checkRateTest" duration-ms="1866" started-at="2021-10-09T03:24:23Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pay off Credit Cards]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="extentEnd" is-config="true" duration-ms="5" started-at="2021-10-09T03:24:25Z" finished-at="2021-10-09T03:24:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePagevalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="checkRateTest" duration-ms="1811" started-at="2021-10-09T03:24:25Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Debt Consolidation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="extentEnd" is-config="true" duration-ms="4" started-at="2021-10-09T03:24:27Z" finished-at="2021-10-09T03:24:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePagevalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="checkRateTest" duration-ms="1518" started-at="2021-10-09T03:24:27Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Business]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="extentEnd" is-config="true" duration-ms="5" started-at="2021-10-09T03:24:28Z" finished-at="2021-10-09T03:24:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePagevalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="checkRateTest" duration-ms="1071" started-at="2021-10-09T03:24:28Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home Improvement]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="extentEnd" is-config="true" duration-ms="5" started-at="2021-10-09T03:24:29Z" finished-at="2021-10-09T03:24:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePagevalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="checkRateTest" duration-ms="1133" started-at="2021-10-09T03:24:29Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Large Purchase]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="extentEnd" is-config="true" duration-ms="4" started-at="2021-10-09T03:24:30Z" finished-at="2021-10-09T03:24:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePagevalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="checkRateTest" duration-ms="1183" started-at="2021-10-09T03:24:30Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:24:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Other]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRateTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="extentEnd" is-config="true" duration-ms="4" started-at="2021-10-09T03:24:32Z" finished-at="2021-10-09T03:24:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRateTest status=SUCCESS method=CheckRatePagevalidLoanAmtTest.checkRateTest(java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="endExtent()[pri:0, instance:com.upgrade.uitests.CheckRatePagevalidLoanAmtTest@20398b7c]" name="endExtent" is-config="true" duration-ms="1201" started-at="2021-10-09T03:24:32Z" finished-at="2021-10-09T03:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtent -->
+      </class> <!-- com.upgrade.uitests.CheckRatePagevalidLoanAmtTest -->
+      <class name="com.upgrade.uitests.BasicInfoCoJoinTest">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:com.upgrade.uitests.BasicInfoCoJoinTest@5383967b]" name="setupBrowser" is-config="true" duration-ms="5810" started-at="2021-10-09T03:23:43Z" finished-at="2021-10-09T03:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.upgrade.uitests.BasicInfoCoJoinTest@5383967b]" name="testSetup" is-config="true" duration-ms="0" started-at="2021-10-09T03:23:49Z" finished-at="2021-10-09T03:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="basicInfoCoJoinTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.BasicInfoCoJoinTest@5383967b]" name="basicInfoCoJoinTest" duration-ms="4806" started-at="2021-10-09T03:23:49Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:23:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Molson]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hellostreet1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[city1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[121212.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11/11//1987]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[jacky]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[molson]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[11/11//1987]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicInfoCoJoinTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.BasicInfoCoJoinTest@5383967b]" name="extentEnd" is-config="true" duration-ms="9" started-at="2021-10-09T03:23:54Z" finished-at="2021-10-09T03:23:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=basicInfoCoJoinTest status=SUCCESS method=BasicInfoCoJoinTest.basicInfoCoJoinTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.BasicInfoCoJoinTest@5383967b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="endExtent()[pri:0, instance:com.upgrade.uitests.BasicInfoCoJoinTest@5383967b]" name="endExtent" is-config="true" duration-ms="1138" started-at="2021-10-09T03:23:54Z" finished-at="2021-10-09T03:23:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtent -->
+      </class> <!-- com.upgrade.uitests.BasicInfoCoJoinTest -->
+      <class name="com.upgrade.uitests.EndToEndAccountValidationTest">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:com.upgrade.uitests.EndToEndAccountValidationTest@4fe3c938]" name="setupBrowser" is-config="true" duration-ms="7450" started-at="2021-10-09T03:23:06Z" finished-at="2021-10-09T03:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.upgrade.uitests.EndToEndAccountValidationTest@4fe3c938]" name="testSetup" is-config="true" duration-ms="4" started-at="2021-10-09T03:23:13Z" finished-at="2021-10-09T03:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="endToEndQaChallengeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.EndToEndAccountValidationTest@4fe3c938]" name="endToEndQaChallengeTest" duration-ms="27499" started-at="2021-10-09T03:23:14Z" data-provider="getBasicInfoData" finished-at="2021-10-09T03:23:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pay off Credit Cards]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Molson]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hellostreet1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[CA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[121212.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[11/11//1987]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[20000.0]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[5000.0]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[upgrade-challenge.com]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Waheguru1@1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndQaChallengeTest -->
+        <test-method status="PASS" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:com.upgrade.uitests.EndToEndAccountValidationTest@4fe3c938]" name="extentEnd" is-config="true" duration-ms="236" started-at="2021-10-09T03:23:42Z" finished-at="2021-10-09T03:23:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=endToEndQaChallengeTest status=SUCCESS method=EndToEndAccountValidationTest.endToEndQaChallengeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.upgrade.uitests.EndToEndAccountValidationTest@4fe3c938] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method status="PASS" signature="endExtent()[pri:0, instance:com.upgrade.uitests.EndToEndAccountValidationTest@4fe3c938]" name="endExtent" is-config="true" duration-ms="1488" started-at="2021-10-09T03:23:42Z" finished-at="2021-10-09T03:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtent -->
+      </class> <!-- com.upgrade.uitests.EndToEndAccountValidationTest -->
+    </test> <!-- Upgrade Test Cases -->
+  </suite> <!-- Upgrade Qa Challenge -->
+</testng-results>

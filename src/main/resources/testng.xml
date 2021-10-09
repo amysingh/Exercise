@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Upgrade Qa Challenge">
+
+    <listeners>
+        <listener class-name="com.upgrade.ui.listeners.ExtentReporterNG" />
+    </listeners>
+
+    <test name="Upgrade Test Cases">
+        <classes>
+            <class name="com.upgrade.uitests.EndToEndAccountValidationTest"></class>
+            <class name="com.upgrade.uitests.BasicInfoCoJoinTest"></class>
+            <class name="com.upgrade.uitests.BasicInfoIndividualTest"></class>
+            <class name="com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest"></class>
+            <class name="com.upgrade.uitests.CheckRatePagevalidLoanAmtTest"></class>
+            <class name="com.upgrade.apitest.UpgradeApiTest"></class>
+        </classes>
+    </test>
+</suite>

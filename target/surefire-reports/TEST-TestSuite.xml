@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="94.4" tests="20" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\singha\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\dev\New folder\QaCodingChallengeUpgrade\target\test-classes;C:\dev\New folder\QaCodingChallengeUpgrade\target\classes;C:\Users\singha\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\singha\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\singha\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\singha\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\singha\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\singha\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\singha\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\singha\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\singha\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\singha\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\singha\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\singha\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\singha\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\singha\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\singha\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\singha\.m2\repository\org\apache\poi\poi-ooxml\3.9\poi-ooxml-3.9.jar;C:\Users\singha\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\singha\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\singha\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.9\poi-ooxml-schemas-3.9.jar;C:\Users\singha\.m2\repository\org\apache\xmlbeans\xmlbeans\2.3.0\xmlbeans-2.3.0.jar;C:\Users\singha\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\singha\.m2\repository\org\apache\poi\poi-scratchpad\3.9\poi-scratchpad-3.9.jar;C:\Users\singha\.m2\repository\org\apache\poi\ooxml-schemas\1.1\ooxml-schemas-1.1.jar;C:\Users\singha\.m2\repository\org\apache\poi\openxml4j\1.0-beta\openxml4j-1.0-beta.jar;C:\Users\singha\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar;C:\Users\singha\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;C:\Users\singha\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;C:\Users\singha\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\singha\.m2\repository\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar;C:\Users\singha\.m2\repository\org\mongodb\bson\3.0.4\bson-3.0.4.jar;C:\Users\singha\.m2\repository\org\mongodb\mongodb-driver-core\3.0.4\mongodb-driver-core-3.0.4.jar;C:\Users\singha\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.0\webdrivermanager-4.4.0.jar;C:\Users\singha\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\singha\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\singha\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\singha\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\singha\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\singha\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\singha\.m2\repository\org\projectlombok\lombok\1.18.4\lombok-1.18.4.jar;C:\Users\singha\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\singha\.m2\repository\io\rest-assured\rest-assured\4.3.3\rest-assured-4.3.3.jar;C:\Users\singha\.m2\repository\org\codehaus\groovy\groovy\3.0.7\groovy-3.0.7.jar;C:\Users\singha\.m2\repository\org\codehaus\groovy\groovy-xml\3.0.7\groovy-xml-3.0.7.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\singha\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\singha\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\singha\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\singha\.m2\repository\io\rest-assured\json-path\4.3.3\json-path-4.3.3.jar;C:\Users\singha\.m2\repository\org\codehaus\groovy\groovy-json\3.0.7\groovy-json-3.0.7.jar;C:\Users\singha\.m2\repository\io\rest-assured\rest-assured-common\4.3.3\rest-assured-common-4.3.3.jar;C:\Users\singha\.m2\repository\io\rest-assured\xml-path\4.3.3\xml-path-4.3.3.jar;C:\Users\singha\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.3\jakarta.xml.bind-api-2.3.3.jar;C:\Users\singha\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.2\jakarta.activation-api-1.2.2.jar;C:\Users\singha\.m2\repository\com\sun\xml\bind\jaxb-impl\2.3.3\jaxb-impl-2.3.3.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\singha\AppData\Local\Temp\surefire3178348941304389307\surefirebooter1252249220866040565.jar C:\Users\singha\AppData\Local\Temp\surefire3178348941304389307 2021-10-08T23-23-03_251-jvmRun1 surefire2122479844141316842tmp surefire_05990510713757498289tmp"/>
+    <property name="surefire.test.class.path" value="C:\dev\New folder\QaCodingChallengeUpgrade\target\test-classes;C:\dev\New folder\QaCodingChallengeUpgrade\target\classes;C:\Users\singha\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\singha\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\singha\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\singha\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\singha\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\singha\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\singha\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\singha\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\singha\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\singha\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\singha\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\singha\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\singha\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\singha\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\singha\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\singha\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\singha\.m2\repository\org\apache\poi\poi-ooxml\3.9\poi-ooxml-3.9.jar;C:\Users\singha\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\singha\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\singha\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.9\poi-ooxml-schemas-3.9.jar;C:\Users\singha\.m2\repository\org\apache\xmlbeans\xmlbeans\2.3.0\xmlbeans-2.3.0.jar;C:\Users\singha\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\singha\.m2\repository\org\apache\poi\poi-scratchpad\3.9\poi-scratchpad-3.9.jar;C:\Users\singha\.m2\repository\org\apache\poi\ooxml-schemas\1.1\ooxml-schemas-1.1.jar;C:\Users\singha\.m2\repository\org\apache\poi\openxml4j\1.0-beta\openxml4j-1.0-beta.jar;C:\Users\singha\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar;C:\Users\singha\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;C:\Users\singha\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;C:\Users\singha\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\singha\.m2\repository\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar;C:\Users\singha\.m2\repository\org\mongodb\bson\3.0.4\bson-3.0.4.jar;C:\Users\singha\.m2\repository\org\mongodb\mongodb-driver-core\3.0.4\mongodb-driver-core-3.0.4.jar;C:\Users\singha\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.0\webdrivermanager-4.4.0.jar;C:\Users\singha\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\singha\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\singha\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\singha\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\singha\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\singha\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\singha\.m2\repository\org\projectlombok\lombok\1.18.4\lombok-1.18.4.jar;C:\Users\singha\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\singha\.m2\repository\io\rest-assured\rest-assured\4.3.3\rest-assured-4.3.3.jar;C:\Users\singha\.m2\repository\org\codehaus\groovy\groovy\3.0.7\groovy-3.0.7.jar;C:\Users\singha\.m2\repository\org\codehaus\groovy\groovy-xml\3.0.7\groovy-xml-3.0.7.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\singha\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\singha\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\singha\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\singha\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\singha\.m2\repository\io\rest-assured\json-path\4.3.3\json-path-4.3.3.jar;C:\Users\singha\.m2\repository\org\codehaus\groovy\groovy-json\3.0.7\groovy-json-3.0.7.jar;C:\Users\singha\.m2\repository\io\rest-assured\rest-assured-common\4.3.3\rest-assured-common-4.3.3.jar;C:\Users\singha\.m2\repository\io\rest-assured\xml-path\4.3.3\xml-path-4.3.3.jar;C:\Users\singha\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.3\jakarta.xml.bind-api-2.3.3.jar;C:\Users\singha\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.2\jakarta.activation-api-1.2.2.jar;C:\Users\singha\.m2\repository\com\sun\xml\bind\jaxb-impl\2.3.3\jaxb-impl-2.3.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\singha"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre"/>
+    <property name="basedir" value="C:\dev\New folder\QaCodingChallengeUpgrade"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\singha\AppData\Local\Temp\surefire3178348941304389307\surefirebooter1252249220866040565.jar"/>
+    <property name="sun.boot.class.path" value="C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\resources.jar;C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\rt.jar;C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\sunrsasign.jar;C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\jsse.jar;C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\jce.jar;C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\charsets.jar;C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\jfr.jar;C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="user.name" value="singha"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\singha\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\singha\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="user.dir" value="C:\dev\New folder\QaCodingChallengeUpgrade"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\singha\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven/bin;C:\dev\software\apache-ant-1.8.2\bin;%JAVA__11_HOME%\bin;C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\bin;C:\dev\software\apache-maven-3.3.9\bin;C:\dev\software\GitBash\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\dev\software\TortoiseGit\bin;C:\dev\software\Silk-Subversion\bin\;C:\dev\software\Putty\;C:\dev\software\GitBash\Git\cmd;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;C:\dev\software\GIT BASH\Git\cmd;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Python27;C:\Users\singha\Downloads\hadoop-2.6.5\hadoop-2.6.5\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files\nodejs\;C:\Users\singha\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\singha\AppData\Local\Programs\Python\Python39\;C:\Users\singha\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Azure Data Studio\bin;C:\Users\singha\AppData\Local\Microsoft\WindowsApps;C:\Users\singha\AppData\Roaming\npm;C:\Users\singha\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="java.ext.dirs" value="C:\dev\software\zulu8.21.0.1-jdk8.0.131-win_x64\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="endToEndQaChallengeTest[5000.0, Pay off Credit Cards, Tim, Molson, Hellostreet1, city, CA, 121212.0, 11/11//1987, 20000.0, 5000.0, upgrade-challenge.com, Waheguru1@1](1)" classname="com.upgrade.uitests.EndToEndAccountValidationTest" time="27.484">
+    <system-out><![CDATA[10-08-2021 23:23:42 EndToEndAccountValidationTest.java INFO  [main] uitests.BaseTest 74 - Test completed successfully class com.upgrade.uitests.EndToEndAccountValidationTest
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 37211
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 08, 2021 11:23:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="basicInfoCoJoinTest[Tim, Molson, Hellostreet1, city1, CA, 121212.0, 11/11//1987, jacky, molson, 11/11//1987](1)" classname="com.upgrade.uitests.BasicInfoCoJoinTest" time="4.788">
+    <system-out><![CDATA[10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:23:42 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:23:54 BasicInfoCoJoinTest.java INFO  [main] uitests.BaseTest 61 - Test completed successfully
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 10743
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 08, 2021 11:23:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="basicInfoTest[Tim, Molson, Hellostreet1, city1, CA, 121212.0, 11/11//1987](1)" classname="com.upgrade.uitests.BasicInfoIndividualTest" time="4.771">
+    <system-out><![CDATA[10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:23:54 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:24:06 BasicInfoIndividualTest.java INFO  [main] uitests.BasicInfoIndividualTest 60 - Test completed successfully
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 32206
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 08, 2021 11:23:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="checkRateTest[5.0, Pay off Credit Cards](1)" classname="com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest" time="0.745">
+    <system-out><![CDATA[10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:24:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:24:14 CheckRatePageInvalidLoanAmtTest.java INFO  [main] uitests.BaseTest 37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 14784
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 08, 2021 11:24:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="checkRateTest[5.0, Debt Consolidation](2)" classname="com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest" time="0.367">
+    <system-out><![CDATA[10-08-2021 23:24:15 CheckRatePageInvalidLoanAmtTest.java INFO  [main] uitests.BaseTest 37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[5.0, Business](3)" classname="com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest" time="0.453">
+    <system-out><![CDATA[10-08-2021 23:24:15 CheckRatePageInvalidLoanAmtTest.java INFO  [main] uitests.BaseTest 37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[5.0, Home Improvement](4)" classname="com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest" time="0.356">
+    <system-out><![CDATA[10-08-2021 23:24:15 CheckRatePageInvalidLoanAmtTest.java INFO  [main] uitests.BaseTest 37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[5.0, Large Purchase](5)" classname="com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest" time="0.365">
+    <system-out><![CDATA[10-08-2021 23:24:16 CheckRatePageInvalidLoanAmtTest.java INFO  [main] uitests.BaseTest 37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[5.0, Other](6)" classname="com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest" time="0.372">
+    <system-out><![CDATA[10-08-2021 23:24:16 CheckRatePageInvalidLoanAmtTest.java INFO  [main] uitests.BaseTest 37 - Test completed successfullyclass com.upgrade.uitests.CheckRatePageInvalidLoanAmtTest
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[10000.0, Pay off Credit Cards](1)" classname="com.upgrade.uitests.CheckRatePagevalidLoanAmtTest" time="1.783">
+    <system-out><![CDATA[10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:24:16 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:24:25 CheckRatePagevalidLoanAmtTest.java INFO  [main] uitests.BaseTest 47 - Test completed successfully
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 31033
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 08, 2021 11:24:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="checkRateTest[10000.0, Debt Consolidation](2)" classname="com.upgrade.uitests.CheckRatePagevalidLoanAmtTest" time="1.811">
+    <system-out><![CDATA[10-08-2021 23:24:27 CheckRatePagevalidLoanAmtTest.java INFO  [main] uitests.BaseTest 47 - Test completed successfully
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[25000.0, Business](3)" classname="com.upgrade.uitests.CheckRatePagevalidLoanAmtTest" time="1.52">
+    <system-out><![CDATA[10-08-2021 23:24:28 CheckRatePagevalidLoanAmtTest.java INFO  [main] uitests.BaseTest 47 - Test completed successfully
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[10000.0, Home Improvement](4)" classname="com.upgrade.uitests.CheckRatePagevalidLoanAmtTest" time="1.072">
+    <system-out><![CDATA[10-08-2021 23:24:29 CheckRatePagevalidLoanAmtTest.java INFO  [main] uitests.BaseTest 47 - Test completed successfully
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[10000.0, Large Purchase](5)" classname="com.upgrade.uitests.CheckRatePagevalidLoanAmtTest" time="1.132">
+    <system-out><![CDATA[10-08-2021 23:24:30 CheckRatePagevalidLoanAmtTest.java INFO  [main] uitests.BaseTest 47 - Test completed successfully
+]]></system-out>
+  </testcase>
+  <testcase name="checkRateTest[10000.0, Other](6)" classname="com.upgrade.uitests.CheckRatePagevalidLoanAmtTest" time="1.182">
+    <system-out><![CDATA[10-08-2021 23:24:32 CheckRatePagevalidLoanAmtTest.java INFO  [main] uitests.BaseTest 47 - Test completed successfully
+]]></system-out>
+  </testcase>
+  <testcase name="upgradeAPIWithInValidLoanAppIdTest" classname="com.upgrade.apitest.UpgradeApiTest" time="3.396">
+    <system-out><![CDATA[10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-08-2021 23:24:32 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/singha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+Request method:	POST
+Request URI:	https://credapi.credify.tech/api/brfunnelorch/v2/resume/byLeadSecret
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		x-cf-corr-id=ebad34b3-85a4-4ebc-a6c0-9de20e283f49
+				x-cf-source-id=coding-challenge
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "loanAppUuid": "c8096ec7-2150-405f-84f5-ae99864b3e96",
+    "skipSideEffects": true
+}
+10-08-2021 23:24:35 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 161 - Get connection for route {s}->https://credapi.credify.tech:443
+10-08-2021 23:24:36 DefaultClientConnectionOperator.java DEBUG [main] conn.DefaultClientConnectionOperator 177 - Connecting to credapi.credify.tech:443
+10-08-2021 23:24:36 RequestAddCookies.java DEBUG [main] protocol.RequestAddCookies 123 - CookieSpec selected: ignoreCookies
+10-08-2021 23:24:36 RequestAuthCache.java DEBUG [main] protocol.RequestAuthCache 77 - Auth cache not set in the context
+10-08-2021 23:24:36 RequestTargetAuthentication.java DEBUG [main] protocol.RequestTargetAuthentication 80 - Target auth state: UNCHALLENGED
+10-08-2021 23:24:36 RequestProxyAuthentication.java DEBUG [main] protocol.RequestProxyAuthentication 89 - Proxy auth state: UNCHALLENGED
+10-08-2021 23:24:36 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 682 - Attempt 1 to execute request
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 274 - Sending request: POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "x-cf-corr-id: ebad34b3-85a4-4ebc-a6c0-9de20e283f49[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Accept: */*[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "x-cf-source-id: coding-challenge[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Length: 77[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Host: credapi.credify.tech[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Connection: Keep-Alive[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "[\r][\n]"
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 278 - >> POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> x-cf-corr-id: ebad34b3-85a4-4ebc-a6c0-9de20e283f49
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept: */*
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> x-cf-source-id: coding-challenge
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Type: application/json; charset=UTF-8
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Length: 77
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Host: credapi.credify.tech
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Connection: Keep-Alive
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept-Encoding: gzip,deflate
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 87 -  >> "{"loanAppUuid":"c8096ec7-2150-405f-84f5-ae99864b3e96","skipSideEffects":true}"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "HTTP/1.1 404 Not Found[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Content-Type: application/json[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "x-content-type-options: nosniff[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "x-xss-protection: 1; mode=block[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "x-frame-options: DENY[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Server: istio-envoy[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Content-Length: 190[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Expires: Sat, 09 Oct 2021 03:24:36 GMT[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Pragma: no-cache[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Date: Sat, 09 Oct 2021 03:24:36 GMT[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Connection: close[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: edge; dur=10[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: origin; dur=91[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: _abck=14B91504AE8212354E6C2AE9C34F8ED2~-1~YAAQHTUyFzennlh8AQAA3b8UYwZgk4rXl9BnUXjW4maz8t33BSAKfPQemQq7xiKFR7MxoRcNGAZB71BjBxplnMxlD+yVYAiftu0mcTHRizgtT4A5wNPoVLVrdo0zCq5fi0lIK/zCxr57Fs9Lqy1JYP8NssdkxG591Wqlvo5b5T816XTFTqFbAQu0qarsPZo4VtlXhb/5XNYfACRfEeTMtIci1W7gMnh7tu+NqqTl12FmsRa8r8i8V1kP1/1XSyYg4Oc4RMK5Sq8IhsK573+c77nWk/hqJzlXkdwQaWvqvM/IoCuE/jCOppMoTGp3HLVW7g1y6dn5HB7fGkbU1Ea6fqzRIP/6SNSEJ2NdKYoFY/CVFHJu09NyC2fo2M0T~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:36 GMT; Max-Age=31536000; Secure[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: bm_sz=7CEB0559DA7C6043B31450BF6C27F429~YAAQHTUyFzinnlh8AQAA3b8UYw1pFA8zVxvSsrZj+ZQqhCyINLNA5o6wJD8kDCO+Ohu+avbFYVA7liW7RIXStE1jO/KyUA9H5wK3HwB+ScQhjqaqjS55pMhJ+eOQxS3uoC7/VmgLGTuWEWzTEH2pOzUlw4ooPr1WIBkI9ReiCGqapQgDteZZwaDmUY0DhDydkR7Yo0tFZuGQyDbb4T6LD/6rgR2faGV4tZaIGgtKhpzhgtsE0qOlI+Zbhg6i/RI2eeJYKPMGQedHNywIpmVOi5i0rWBSLsOSUHmakAHQa9Se1EZdLQ==~4600887~4338483; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:36 GMT; Max-Age=14400[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "[\r][\n]"
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 259 - Receiving response: HTTP/1.1 404 Not Found
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 262 - << HTTP/1.1 404 Not Found
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Content-Type: application/json
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-content-type-options: nosniff
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-xss-protection: 1; mode=block
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-frame-options: DENY
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server: istio-envoy
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Content-Length: 190
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Expires: Sat, 09 Oct 2021 03:24:36 GMT
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Cache-Control: max-age=0, no-cache
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Pragma: no-cache
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Date: Sat, 09 Oct 2021 03:24:36 GMT
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Connection: close
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: cdn-cache; desc=MISS
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: edge; dur=10
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: origin; dur=91
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << X-Akamai-Staging: ESSL
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: _abck=14B91504AE8212354E6C2AE9C34F8ED2~-1~YAAQHTUyFzennlh8AQAA3b8UYwZgk4rXl9BnUXjW4maz8t33BSAKfPQemQq7xiKFR7MxoRcNGAZB71BjBxplnMxlD+yVYAiftu0mcTHRizgtT4A5wNPoVLVrdo0zCq5fi0lIK/zCxr57Fs9Lqy1JYP8NssdkxG591Wqlvo5b5T816XTFTqFbAQu0qarsPZo4VtlXhb/5XNYfACRfEeTMtIci1W7gMnh7tu+NqqTl12FmsRa8r8i8V1kP1/1XSyYg4Oc4RMK5Sq8IhsK573+c77nWk/hqJzlXkdwQaWvqvM/IoCuE/jCOppMoTGp3HLVW7g1y6dn5HB7fGkbU1Ea6fqzRIP/6SNSEJ2NdKYoFY/CVFHJu09NyC2fo2M0T~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:36 GMT; Max-Age=31536000; Secure
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: bm_sz=7CEB0559DA7C6043B31450BF6C27F429~YAAQHTUyFzinnlh8AQAA3b8UYw1pFA8zVxvSsrZj+ZQqhCyINLNA5o6wJD8kDCO+Ohu+avbFYVA7liW7RIXStE1jO/KyUA9H5wK3HwB+ScQhjqaqjS55pMhJ+eOQxS3uoC7/VmgLGTuWEWzTEH2pOzUlw4ooPr1WIBkI9ReiCGqapQgDteZZwaDmUY0DhDydkR7Yo0tFZuGQyDbb4T6LD/6rgR2faGV4tZaIGgtKhpzhgtsE0qOlI+Zbhg6i/RI2eeJYKPMGQedHNywIpmVOi5i0rWBSLsOSUHmakAHQa9Se1EZdLQ==~4600887~4338483; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:36 GMT; Max-Age=14400
+10-08-2021 23:24:36 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 545 - Parsing response as: application/json
+10-08-2021 23:24:36 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "{[\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "  "code" : 100001,[\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "  "codeName" : "MISSING_LOAN_APPLICATION",[\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "  "message" : "Loan application does not exist.",[\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "  "retryable" : false,[\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "  "type" : "ABNORMAL",[\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  << "  "httpStatus" : "NOT_FOUND"[\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 87 -  << "}"
+10-08-2021 23:24:36 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@a1e912f
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 164 - Connection 0.0.0.0:52293<->23.50.53.33:443 shut down
+HTTP/1.1 404 Not Found
+Content-Type: application/json
+Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: DENY
+Server: istio-envoy
+strict-transport-security: max-age=31536000 ; includeSubDomains
+Content-Length: 190
+Expires: Sat, 09 Oct 2021 03:24:36 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Sat, 09 Oct 2021 03:24:36 GMT
+Connection: close
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=10
+Server-Timing: origin; dur=91
+X-Akamai-Staging: ESSL
+Set-Cookie: _abck=14B91504AE8212354E6C2AE9C34F8ED2~-1~YAAQHTUyFzennlh8AQAA3b8UYwZgk4rXl9BnUXjW4maz8t33BSAKfPQemQq7xiKFR7MxoRcNGAZB71BjBxplnMxlD+yVYAiftu0mcTHRizgtT4A5wNPoVLVrdo0zCq5fi0lIK/zCxr57Fs9Lqy1JYP8NssdkxG591Wqlvo5b5T816XTFTqFbAQu0qarsPZo4VtlXhb/5XNYfACRfEeTMtIci1W7gMnh7tu+NqqTl12FmsRa8r8i8V1kP1/1XSyYg4Oc4RMK5Sq8IhsK573+c77nWk/hqJzlXkdwQaWvqvM/IoCuE/jCOppMoTGp3HLVW7g1y6dn5HB7fGkbU1Ea6fqzRIP/6SNSEJ2NdKYoFY/CVFHJu09NyC2fo2M0T~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:36 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=7CEB0559DA7C6043B31450BF6C27F429~YAAQHTUyFzinnlh8AQAA3b8UYw1pFA8zVxvSsrZj+ZQqhCyINLNA5o6wJD8kDCO+Ohu+avbFYVA7liW7RIXStE1jO/KyUA9H5wK3HwB+ScQhjqaqjS55pMhJ+eOQxS3uoC7/VmgLGTuWEWzTEH2pOzUlw4ooPr1WIBkI9ReiCGqapQgDteZZwaDmUY0DhDydkR7Yo0tFZuGQyDbb4T6LD/6rgR2faGV4tZaIGgtKhpzhgtsE0qOlI+Zbhg6i/RI2eeJYKPMGQedHNywIpmVOi5i0rWBSLsOSUHmakAHQa9Se1EZdLQ==~4600887~4338483; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:36 GMT; Max-Age=14400
+
+{
+    "code": 100001,
+    "codeName": "MISSING_LOAN_APPLICATION",
+    "message": "Loan application does not exist.",
+    "retryable": false,
+    "type": "ABNORMAL",
+    "httpStatus": "NOT_FOUND"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="upgradeAPIWithInvalidHeadersTest" classname="com.upgrade.apitest.UpgradeApiTest" time="0.438">
+    <system-out><![CDATA[Request method:	POST
+Request URI:	https://credapi.credify.tech/api/brfunnelorch/v2/resume/byLeadSecret
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Wrong-coding-challenge=coding-challenge
+				12341232123223=78e98d62-525d-42ef-ae37-7f1dec17ec1e
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "loanAppUuid": "b8096ec7-2150-405f-84f5-ae99864b3e96",
+    "skipSideEffects": true
+}
+10-08-2021 23:24:36 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 161 - Get connection for route {s}->https://credapi.credify.tech:443
+10-08-2021 23:24:36 DefaultClientConnectionOperator.java DEBUG [main] conn.DefaultClientConnectionOperator 177 - Connecting to credapi.credify.tech:443
+10-08-2021 23:24:36 RequestAddCookies.java DEBUG [main] protocol.RequestAddCookies 123 - CookieSpec selected: ignoreCookies
+10-08-2021 23:24:36 RequestAuthCache.java DEBUG [main] protocol.RequestAuthCache 77 - Auth cache not set in the context
+10-08-2021 23:24:36 RequestTargetAuthentication.java DEBUG [main] protocol.RequestTargetAuthentication 80 - Target auth state: UNCHALLENGED
+10-08-2021 23:24:36 RequestProxyAuthentication.java DEBUG [main] protocol.RequestProxyAuthentication 89 - Proxy auth state: UNCHALLENGED
+10-08-2021 23:24:36 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 682 - Attempt 1 to execute request
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 274 - Sending request: POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Accept: */*[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Wrong-coding-challenge: coding-challenge[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "12341232123223: 78e98d62-525d-42ef-ae37-7f1dec17ec1e[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Length: 77[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Host: credapi.credify.tech[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Connection: Keep-Alive[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 73 -  >> "[\r][\n]"
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 278 - >> POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept: */*
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Wrong-coding-challenge: coding-challenge
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> 12341232123223: 78e98d62-525d-42ef-ae37-7f1dec17ec1e
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Type: application/json; charset=UTF-8
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Length: 77
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Host: credapi.credify.tech
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Connection: Keep-Alive
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+10-08-2021 23:24:36 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept-Encoding: gzip,deflate
+10-08-2021 23:24:36 Wire.java DEBUG [main] http.wire 87 -  >> "{"loanAppUuid":"b8096ec7-2150-405f-84f5-ae99864b3e96","skipSideEffects":true}"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Content-Type: application/json[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server: istio-envoy[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Expires: Sat, 09 Oct 2021 03:24:37 GMT[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Pragma: no-cache[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Date: Sat, 09 Oct 2021 03:24:37 GMT[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Transfer-Encoding:  chunked[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Connection: close[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Connection: Transfer-Encoding[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: edge; dur=8[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: origin; dur=90[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: _abck=C0DBA1EC170E6D3B3F2533D783A04854~-1~YAAQHTUyFzqnnlh8AQAASMIUYwYQi1rpnE9w1DhPDOcia/A6jhWYAR/bKmR/pm81ODx8/W/LaDLpKwsGFVIj4sBHHXLIqALL5tn2YthbHvAJtKkT9M8MhFlyhdo2czintC92NZERXf8TTXBHTXRxwwN3M1Z2jLJl4S9xOkysSjg5Xq1Xyf2F1g15UmOXSy/+MnIGKRv2JEmpPayNHuVRisVPkH1vu2Q6NupY+JUjqpc7Auz8eWW6IuQw/Qtcc5MCv59w7bay+aVVfcf5bEeHZmrqWe+S1aumL3YB52azIRVJgj7BwYy/mYjhn/FhWwiJKWPXkV71TLBJlw77aNWtGWrvxQGm02kM65Vwezv8f3kD62WmYxCrzwKx6gh6~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: bm_sz=B890422196CF5B210FDB8283D294E07B~YAAQHTUyFzunnlh8AQAASMIUYw0Q8VWEDUeI63yoyq5eEqh3wqqKVA45GQR7WRteuFidUkP7GypZLHB52ipT2yQVWs5fNQRw0YEzGC4seL9O/xzY98M/CwsyceoRVwfFtPbbyADrDQlTW8WIe7d7dF2R+BqIJuX8AvEsx2zZ26ZpXLum+9HCGGwXPuGHwv0BtvA/vd/AXLQ9d1f94qmfJRAPgQnnIVDAm2K2Bki9bZn1yvX7JcyzQ/sDl0hf727jkqFy3E2A2nB6QhaD3I2e+RbnweCpUcu1a4C6853IWDxYrz6dUw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "[\r][\n]"
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 259 - Receiving response: HTTP/1.1 500 Internal Server Error
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 262 - << HTTP/1.1 500 Internal Server Error
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Content-Type: application/json
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server: istio-envoy
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Expires: Sat, 09 Oct 2021 03:24:37 GMT
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Cache-Control: max-age=0, no-cache
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Pragma: no-cache
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Date: Sat, 09 Oct 2021 03:24:37 GMT
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Transfer-Encoding:  chunked
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Connection: close
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Connection: Transfer-Encoding
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: cdn-cache; desc=MISS
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: edge; dur=8
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: origin; dur=90
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << X-Akamai-Staging: ESSL
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: _abck=C0DBA1EC170E6D3B3F2533D783A04854~-1~YAAQHTUyFzqnnlh8AQAASMIUYwYQi1rpnE9w1DhPDOcia/A6jhWYAR/bKmR/pm81ODx8/W/LaDLpKwsGFVIj4sBHHXLIqALL5tn2YthbHvAJtKkT9M8MhFlyhdo2czintC92NZERXf8TTXBHTXRxwwN3M1Z2jLJl4S9xOkysSjg5Xq1Xyf2F1g15UmOXSy/+MnIGKRv2JEmpPayNHuVRisVPkH1vu2Q6NupY+JUjqpc7Auz8eWW6IuQw/Qtcc5MCv59w7bay+aVVfcf5bEeHZmrqWe+S1aumL3YB52azIRVJgj7BwYy/mYjhn/FhWwiJKWPXkV71TLBJlw77aNWtGWrvxQGm02kM65Vwezv8f3kD62WmYxCrzwKx6gh6~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: bm_sz=B890422196CF5B210FDB8283D294E07B~YAAQHTUyFzunnlh8AQAASMIUYw0Q8VWEDUeI63yoyq5eEqh3wqqKVA45GQR7WRteuFidUkP7GypZLHB52ipT2yQVWs5fNQRw0YEzGC4seL9O/xzY98M/CwsyceoRVwfFtPbbyADrDQlTW8WIe7d7dF2R+BqIJuX8AvEsx2zZ26ZpXLum+9HCGGwXPuGHwv0BtvA/vd/AXLQ9d1f94qmfJRAPgQnnIVDAm2K2Bki9bZn1yvX7JcyzQ/sDl0hf727jkqFy3E2A2nB6QhaD3I2e+RbnweCpUcu1a4C6853IWDxYrz6dUw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400
+10-08-2021 23:24:37 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 545 - Parsing response as: application/json
+10-08-2021 23:24:37 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "000000AE[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "{[\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "  "timestamp" : "2021-10-09T03:24:37.286Z",[\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "  "status" : 500,[\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "  "error" : "Internal Server Error",[\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "  "message" : "",[\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "  "path" : "/api/brfunnelorch/v2/resume/byLeadSecret"[\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 87 -  << "}"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "00000000[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "[\r][\n]"
+10-08-2021 23:24:37 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@296676c4
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 164 - Connection 0.0.0.0:52295<->23.50.53.33:443 shut down
+HTTP/1.1 500 Internal Server Error
+Content-Type: application/json
+Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+Server: istio-envoy
+strict-transport-security: max-age=31536000 ; includeSubDomains
+Expires: Sat, 09 Oct 2021 03:24:37 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Sat, 09 Oct 2021 03:24:37 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=8
+Server-Timing: origin; dur=90
+X-Akamai-Staging: ESSL
+Set-Cookie: _abck=C0DBA1EC170E6D3B3F2533D783A04854~-1~YAAQHTUyFzqnnlh8AQAASMIUYwYQi1rpnE9w1DhPDOcia/A6jhWYAR/bKmR/pm81ODx8/W/LaDLpKwsGFVIj4sBHHXLIqALL5tn2YthbHvAJtKkT9M8MhFlyhdo2czintC92NZERXf8TTXBHTXRxwwN3M1Z2jLJl4S9xOkysSjg5Xq1Xyf2F1g15UmOXSy/+MnIGKRv2JEmpPayNHuVRisVPkH1vu2Q6NupY+JUjqpc7Auz8eWW6IuQw/Qtcc5MCv59w7bay+aVVfcf5bEeHZmrqWe+S1aumL3YB52azIRVJgj7BwYy/mYjhn/FhWwiJKWPXkV71TLBJlw77aNWtGWrvxQGm02kM65Vwezv8f3kD62WmYxCrzwKx6gh6~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=B890422196CF5B210FDB8283D294E07B~YAAQHTUyFzunnlh8AQAASMIUYw0Q8VWEDUeI63yoyq5eEqh3wqqKVA45GQR7WRteuFidUkP7GypZLHB52ipT2yQVWs5fNQRw0YEzGC4seL9O/xzY98M/CwsyceoRVwfFtPbbyADrDQlTW8WIe7d7dF2R+BqIJuX8AvEsx2zZ26ZpXLum+9HCGGwXPuGHwv0BtvA/vd/AXLQ9d1f94qmfJRAPgQnnIVDAm2K2Bki9bZn1yvX7JcyzQ/sDl0hf727jkqFy3E2A2nB6QhaD3I2e+RbnweCpUcu1a4C6853IWDxYrz6dUw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400
+
+{
+    "timestamp": "2021-10-09T03:24:37.286Z",
+    "status": 500,
+    "error": "Internal Server Error",
+    "message": "",
+    "path": "/api/brfunnelorch/v2/resume/byLeadSecret"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="upgradeAPIWithInvalidMethodTest" classname="com.upgrade.apitest.UpgradeApiTest" time="0.358">
+    <system-out><![CDATA[Request method:	GET
+Request URI:	https://credapi.credify.tech/api/brfunnelorch/v2/resume/byLeadSecret
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		x-cf-corr-id=080023a5-34a4-42e9-9afc-87ecca61b8ca
+				x-cf-source-id=coding-challenge
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "loanAppUuid": "b8096ec7-2150-405f-84f5-ae99864b3e96",
+    "skipSideEffects": true
+}
+10-08-2021 23:24:37 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 161 - Get connection for route {s}->https://credapi.credify.tech:443
+10-08-2021 23:24:37 DefaultClientConnectionOperator.java DEBUG [main] conn.DefaultClientConnectionOperator 177 - Connecting to credapi.credify.tech:443
+10-08-2021 23:24:37 RequestAddCookies.java DEBUG [main] protocol.RequestAddCookies 123 - CookieSpec selected: ignoreCookies
+10-08-2021 23:24:37 RequestAuthCache.java DEBUG [main] protocol.RequestAuthCache 77 - Auth cache not set in the context
+10-08-2021 23:24:37 RequestTargetAuthentication.java DEBUG [main] protocol.RequestTargetAuthentication 80 - Target auth state: UNCHALLENGED
+10-08-2021 23:24:37 RequestProxyAuthentication.java DEBUG [main] protocol.RequestProxyAuthentication 89 - Proxy auth state: UNCHALLENGED
+10-08-2021 23:24:37 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 682 - Attempt 1 to execute request
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 274 - Sending request: GET /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "GET /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "x-cf-corr-id: 080023a5-34a4-42e9-9afc-87ecca61b8ca[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Accept: */*[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "x-cf-source-id: coding-challenge[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Length: 77[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Host: credapi.credify.tech[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Connection: Keep-Alive[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "[\r][\n]"
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 278 - >> GET /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> x-cf-corr-id: 080023a5-34a4-42e9-9afc-87ecca61b8ca
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept: */*
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> x-cf-source-id: coding-challenge
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Type: application/json; charset=UTF-8
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Length: 77
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Host: credapi.credify.tech
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Connection: Keep-Alive
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept-Encoding: gzip,deflate
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 87 -  >> "{"loanAppUuid":"b8096ec7-2150-405f-84f5-ae99864b3e96","skipSideEffects":true}"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "HTTP/1.1 405 Method Not Allowed[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Content-Type: application/json[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "x-content-type-options: nosniff[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "x-xss-protection: 1; mode=block[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "x-frame-options: DENY[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server: istio-envoy[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Expires: Sat, 09 Oct 2021 03:24:37 GMT[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Pragma: no-cache[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Date: Sat, 09 Oct 2021 03:24:37 GMT[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Transfer-Encoding:  chunked[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Connection: keep-alive[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Connection: Transfer-Encoding[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: edge; dur=4[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: origin; dur=78[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: _abck=2D7A046B3154F359C52898D111183153~-1~YAAQHTUyFzynnlh8AQAAusMUYwZBgKx2U6ohPdef5nOT35SGBa+NUaakrLlGovQwCB7NDwbD+ehd4tomIS2aeYPm59QMyLKPjbZ0tstoprfViYvcGclYX02+mWZZ+KRUX1W50bvSsEIMihqKk9zIpSK1jW8cTOEqYuNqrym7t4kxGvZkFTlsOIuwnaW5Hxgr8hTxUpEUp0h2cjyV/8FWmPx+s8u5pspeHCNFILm1E6CBoc6KG/D6fM/lBjMWVR5WsiOXDBMepbQEOwaWB13lQ1SZms+YNcYD83/I5FzhtutCn6s9P+5o+v/QocfXDDQgHnPAiRSqfMHzyLuZ2h22YM/xoyfgRY0e2t5uMDQ7x9FnKOq8B2Aworvwynu5~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: bm_sz=3D6654AF09CE5FA634E60A99C2F771DC~YAAQHTUyFz2nnlh8AQAAusMUYw2+kghwr0rho4/Mj9bsM3DBEQXdaFZbuzxfyzptFbSqMC+N7Ap7Iqc1nk9A62yGO5jtOXrYoX3Tea9SSYLxJeEkv0/FWdZaYBpElTM7f6e+K89tJOPasQdKZxWlJ8wbg4yYsWtEZPMX30nKLDwKiaLcK0SnzQ2UYSAslLL8cVP422b6GUw9qSQOP59i/1fp9LpbeEb80Rh781d7ryEFzE8MTEv4eDj/xew5N3IGohoIph2u2fWpE8IriIIHf21/GeadvuLXw8IetheVGk5pIvP/AQ==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "[\r][\n]"
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 259 - Receiving response: HTTP/1.1 405 Method Not Allowed
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 262 - << HTTP/1.1 405 Method Not Allowed
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Content-Type: application/json
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-content-type-options: nosniff
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-xss-protection: 1; mode=block
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-frame-options: DENY
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server: istio-envoy
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Expires: Sat, 09 Oct 2021 03:24:37 GMT
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Cache-Control: max-age=0, no-cache
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Pragma: no-cache
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Date: Sat, 09 Oct 2021 03:24:37 GMT
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Transfer-Encoding:  chunked
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Connection: keep-alive
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Connection: Transfer-Encoding
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: cdn-cache; desc=MISS
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: edge; dur=4
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: origin; dur=78
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << X-Akamai-Staging: ESSL
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: _abck=2D7A046B3154F359C52898D111183153~-1~YAAQHTUyFzynnlh8AQAAusMUYwZBgKx2U6ohPdef5nOT35SGBa+NUaakrLlGovQwCB7NDwbD+ehd4tomIS2aeYPm59QMyLKPjbZ0tstoprfViYvcGclYX02+mWZZ+KRUX1W50bvSsEIMihqKk9zIpSK1jW8cTOEqYuNqrym7t4kxGvZkFTlsOIuwnaW5Hxgr8hTxUpEUp0h2cjyV/8FWmPx+s8u5pspeHCNFILm1E6CBoc6KG/D6fM/lBjMWVR5WsiOXDBMepbQEOwaWB13lQ1SZms+YNcYD83/I5FzhtutCn6s9P+5o+v/QocfXDDQgHnPAiRSqfMHzyLuZ2h22YM/xoyfgRY0e2t5uMDQ7x9FnKOq8B2Aworvwynu5~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:37 GMT; Max-Age=31536000; Secure
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: bm_sz=3D6654AF09CE5FA634E60A99C2F771DC~YAAQHTUyFz2nnlh8AQAAusMUYw2+kghwr0rho4/Mj9bsM3DBEQXdaFZbuzxfyzptFbSqMC+N7Ap7Iqc1nk9A62yGO5jtOXrYoX3Tea9SSYLxJeEkv0/FWdZaYBpElTM7f6e+K89tJOPasQdKZxWlJ8wbg4yYsWtEZPMX30nKLDwKiaLcK0SnzQ2UYSAslLL8cVP422b6GUw9qSQOP59i/1fp9LpbeEb80Rh781d7ryEFzE8MTEv4eDj/xew5N3IGohoIph2u2fWpE8IriIIHf21/GeadvuLXw8IetheVGk5pIvP/AQ==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14400
+10-08-2021 23:24:37 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 509 - Connection can be kept alive indefinitely
+10-08-2021 23:24:37 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 545 - Parsing response as: application/json
+10-08-2021 23:24:37 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+]]></system-out>
+  </testcase>
+  <testcase name="upgradeAPIWithNoPayLoadTest" classname="com.upgrade.apitest.UpgradeApiTest" time="0.371">
+    <system-out><![CDATA[Request method:	POST
+Request URI:	https://credapi.credify.tech/api/brfunnelorch/v2/resume/byLeadSecret
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		x-cf-corr-id=71428ee3-94b7-4b49-8426-1fece75c9624
+				x-cf-source-id=coding-challenge
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+10-08-2021 23:24:37 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 161 - Get connection for route {s}->https://credapi.credify.tech:443
+10-08-2021 23:24:37 DefaultClientConnectionOperator.java DEBUG [main] conn.DefaultClientConnectionOperator 177 - Connecting to credapi.credify.tech:443
+10-08-2021 23:24:37 RequestAddCookies.java DEBUG [main] protocol.RequestAddCookies 123 - CookieSpec selected: ignoreCookies
+10-08-2021 23:24:37 RequestAuthCache.java DEBUG [main] protocol.RequestAuthCache 77 - Auth cache not set in the context
+10-08-2021 23:24:37 RequestTargetAuthentication.java DEBUG [main] protocol.RequestTargetAuthentication 80 - Target auth state: UNCHALLENGED
+10-08-2021 23:24:37 RequestProxyAuthentication.java DEBUG [main] protocol.RequestProxyAuthentication 89 - Proxy auth state: UNCHALLENGED
+10-08-2021 23:24:37 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 682 - Attempt 1 to execute request
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 274 - Sending request: POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "x-cf-corr-id: 71428ee3-94b7-4b49-8426-1fece75c9624[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Accept: */*[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "x-cf-source-id: coding-challenge[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Length: 0[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Host: credapi.credify.tech[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Connection: Keep-Alive[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  >> "[\r][\n]"
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 278 - >> POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Type: application/json; charset=UTF-8
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> x-cf-corr-id: 71428ee3-94b7-4b49-8426-1fece75c9624
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept: */*
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> x-cf-source-id: coding-challenge
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Length: 0
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Host: credapi.credify.tech
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Connection: Keep-Alive
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept-Encoding: gzip,deflate
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Content-Type: application/json[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "x-content-type-options: nosniff[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "x-xss-protection: 1; mode=block[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "x-frame-options: DENY[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server: istio-envoy[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Expires: Sat, 09 Oct 2021 03:24:38 GMT[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Pragma: no-cache[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Date: Sat, 09 Oct 2021 03:24:38 GMT[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Transfer-Encoding:  chunked[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Connection: close[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Connection: Transfer-Encoding[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: edge; dur=7[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: origin; dur=74[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: _abck=8D7BC5D1CD0AF6D49BF35E13290BE422~-1~YAAQHTUyFz6nnlh8AQAABcUUYwaj9a60NXjcFFgySy5INlRz7f+WJ5riC99cGvdgaZYRGogG6JcrasGqnogAx9OkmK1BHud44JVUiKno+OzBRV7W2hVSwC/QGJwtBKp357Bpz5CKNZSMFa+baH0ojUXhNqe5Vtnp51McdlRRyEGTcSZ7Nylf+Hyr5Gyln0hiEPFOdYiy8TjqbNB2ix/LtOf6ayY/f/sryWrFEuVmANBrrmsR2AdVU12+THWrO02GuMNx8XLWGggZUlIkAoPYwHLaOfkXTkKQJux5D0VYuYhkcqGyKn6jYkU3F+sb4vma6REaGAhvcoTRGzESdvhT7aC2ZOSw56Prjrqp4BkNApdPosoRp9FEFW5dwEZG~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: bm_sz=6164FEA6CC2315AF8DC5522C9751FA97~YAAQHTUyFz+nnlh8AQAABcUUYw23Q/6pwDDxV3Bsw/bVXJBBglxOyzrbAmkgAbAkosgeDd43K+OgfwFqUuciRtwupdL7uzNkFU14Oigdq8bRz2RBExWCpM/RsgHKaTbMwaHqt+F13b/h/TBDyBzgj30Q6AdK7Iczw5f2lDWmWeXoxiiDy/6wXiKaCDb7X8w3nAcGbL3iDztkqElJf2Vsj5AF2buBt3yG8Q+0UvTTKOmzN63tdaiSjKZ7yDoaHdraiUzoyV87Q/gTlRAbu388gIUFa2kDZqY5eFtXOyCNZ55rHCD6Kw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14399[\r][\n]"
+10-08-2021 23:24:37 Wire.java DEBUG [main] http.wire 73 -  << "[\r][\n]"
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 259 - Receiving response: HTTP/1.1 500 Internal Server Error
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 262 - << HTTP/1.1 500 Internal Server Error
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Content-Type: application/json
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-content-type-options: nosniff
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-xss-protection: 1; mode=block
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-frame-options: DENY
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server: istio-envoy
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Expires: Sat, 09 Oct 2021 03:24:38 GMT
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Cache-Control: max-age=0, no-cache
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Pragma: no-cache
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Date: Sat, 09 Oct 2021 03:24:38 GMT
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Transfer-Encoding:  chunked
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Connection: close
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Connection: Transfer-Encoding
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: cdn-cache; desc=MISS
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: edge; dur=7
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: origin; dur=74
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << X-Akamai-Staging: ESSL
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: _abck=8D7BC5D1CD0AF6D49BF35E13290BE422~-1~YAAQHTUyFz6nnlh8AQAABcUUYwaj9a60NXjcFFgySy5INlRz7f+WJ5riC99cGvdgaZYRGogG6JcrasGqnogAx9OkmK1BHud44JVUiKno+OzBRV7W2hVSwC/QGJwtBKp357Bpz5CKNZSMFa+baH0ojUXhNqe5Vtnp51McdlRRyEGTcSZ7Nylf+Hyr5Gyln0hiEPFOdYiy8TjqbNB2ix/LtOf6ayY/f/sryWrFEuVmANBrrmsR2AdVU12+THWrO02GuMNx8XLWGggZUlIkAoPYwHLaOfkXTkKQJux5D0VYuYhkcqGyKn6jYkU3F+sb4vma6REaGAhvcoTRGzESdvhT7aC2ZOSw56Prjrqp4BkNApdPosoRp9FEFW5dwEZG~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure
+10-08-2021 23:24:37 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: bm_sz=6164FEA6CC2315AF8DC5522C9751FA97~YAAQHTUyFz+nnlh8AQAABcUUYw23Q/6pwDDxV3Bsw/bVXJBBglxOyzrbAmkgAbAkosgeDd43K+OgfwFqUuciRtwupdL7uzNkFU14Oigdq8bRz2RBExWCpM/RsgHKaTbMwaHqt+F13b/h/TBDyBzgj30Q6AdK7Iczw5f2lDWmWeXoxiiDy/6wXiKaCDb7X8w3nAcGbL3iDztkqElJf2Vsj5AF2buBt3yG8Q+0UvTTKOmzN63tdaiSjKZ7yDoaHdraiUzoyV87Q/gTlRAbu388gIUFa2kDZqY5eFtXOyCNZ55rHCD6Kw==~4604725~4538936; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:37 GMT; Max-Age=14399
+10-08-2021 23:24:37 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 545 - Parsing response as: application/json
+10-08-2021 23:24:37 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+]]></system-out>
+  </testcase>
+  <testcase name="upgradeAPIWithValidLoanAppIdTest" classname="com.upgrade.apitest.UpgradeApiTest" time="0.981">
+    <system-out><![CDATA[Request method:	POST
+Request URI:	https://credapi.credify.tech/api/brfunnelorch/v2/resume/byLeadSecret
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		x-cf-corr-id=18cc766f-57d8-4e8a-952f-218800812cfa
+				x-cf-source-id=coding-challenge
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "loanAppUuid": "b8096ec7-2150-405f-84f5-ae99864b3e96",
+    "skipSideEffects": true
+}
+10-08-2021 23:24:37 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 161 - Get connection for route {s}->https://credapi.credify.tech:443
+10-08-2021 23:24:37 DefaultClientConnectionOperator.java DEBUG [main] conn.DefaultClientConnectionOperator 177 - Connecting to credapi.credify.tech:443
+10-08-2021 23:24:38 RequestAddCookies.java DEBUG [main] protocol.RequestAddCookies 123 - CookieSpec selected: ignoreCookies
+10-08-2021 23:24:38 RequestAuthCache.java DEBUG [main] protocol.RequestAuthCache 77 - Auth cache not set in the context
+10-08-2021 23:24:38 RequestTargetAuthentication.java DEBUG [main] protocol.RequestTargetAuthentication 80 - Target auth state: UNCHALLENGED
+10-08-2021 23:24:38 RequestProxyAuthentication.java DEBUG [main] protocol.RequestProxyAuthentication 89 - Proxy auth state: UNCHALLENGED
+10-08-2021 23:24:38 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 682 - Attempt 1 to execute request
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 274 - Sending request: POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "x-cf-corr-id: 18cc766f-57d8-4e8a-952f-218800812cfa[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "Accept: */*[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "x-cf-source-id: coding-challenge[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "Content-Length: 77[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "Host: credapi.credify.tech[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "Connection: Keep-Alive[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  >> "[\r][\n]"
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 278 - >> POST /api/brfunnelorch/v2/resume/byLeadSecret HTTP/1.1
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> x-cf-corr-id: 18cc766f-57d8-4e8a-952f-218800812cfa
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept: */*
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> x-cf-source-id: coding-challenge
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Type: application/json; charset=UTF-8
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Content-Length: 77
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Host: credapi.credify.tech
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Connection: Keep-Alive
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 281 - >> Accept-Encoding: gzip,deflate
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 87 -  >> "{"loanAppUuid":"b8096ec7-2150-405f-84f5-ae99864b3e96","skipSideEffects":true}"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "HTTP/1.1 200 OK[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Content-Type: application/json[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "x-content-type-options: nosniff[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "x-xss-protection: 1; mode=block[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "x-frame-options: DENY[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Server: istio-envoy[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "strict-transport-security: max-age=31536000 ; includeSubDomains[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Content-Length: 1036[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Expires: Sat, 09 Oct 2021 03:24:38 GMT[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Cache-Control: max-age=0, no-cache[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Pragma: no-cache[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Date: Sat, 09 Oct 2021 03:24:38 GMT[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Connection: keep-alive[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: cdn-cache; desc=MISS[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: edge; dur=7[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Server-Timing: origin; dur=619[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "X-Akamai-Staging: ESSL[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: _abck=37938097FE32F552D2ED27FCA4A4C7AA~-1~YAAQHTUyF0Gnnlh8AQAAw8gUYwagB/jZBpYXk3P3l8VOKizNnjdAQ9Jpk5HFpCiEuG1//FCxp9ynBHims6g0C60yi+osoD/BI68EkEoshBwWqstHVv++U+SQkCJqRPLfAjyO7M7oxf7umf/YQ5QdSwQko3e7+oy8QHsqEuQPEMwAjUKieSXQEDZURdCBZ6N4JNzs2mIdNnIE+VH+IQA/PuMK0kYolP3weXrrORiTxFiSzM3WaBa+xw1w60296Egyy9zMIvK1ZpGiIpeoavKba/hagWhk2aA+6P00cL/CpRnG9n+87Xz0I7BAiONwPYxHshXROTZQeVPfLWqluJU0/YTP6qwiAByl/HTO1uxCtZQxHSlFLpFi0ftVdF0+~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "Set-Cookie: bm_sz=4B7C1EC04A10E056E46258AD6FAC1E3B~YAAQHTUyF0Knnlh8AQAAw8gUYw2c5AAFYQmfqszhkw81SEYsxPAO3/gFjdu59t6sElvId6sUbbkYMUykkxv/sSCG+VAsi8UgYlyQxuPx7ZoHLdlM9fzAE1acIX50FWqQhjaY6pJcAVbvYK3Vc99qJsiUgGIoOeYmrxDXmMrtfa7YXCLKhfsayHYsErM5k5MraMI7PfJc5LIVmzM4uA0PyULY6ByEKGIyisRCXsGBrZSCeKSFy+Wj7sjUB81HUHjexi5DYJU8+O2WSD3e1ic/4RUM7UGdZOydcs6KSL5AILNwF/ICxw==~3622193~4272441; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:38 GMT; Max-Age=14400[\r][\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "[\r][\n]"
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 259 - Receiving response: HTTP/1.1 200 OK
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 262 - << HTTP/1.1 200 OK
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Content-Type: application/json
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-content-type-options: nosniff
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-xss-protection: 1; mode=block
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << x-frame-options: DENY
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server: istio-envoy
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << strict-transport-security: max-age=31536000 ; includeSubDomains
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Content-Length: 1036
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Expires: Sat, 09 Oct 2021 03:24:38 GMT
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Cache-Control: max-age=0, no-cache
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Pragma: no-cache
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Date: Sat, 09 Oct 2021 03:24:38 GMT
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Connection: keep-alive
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: cdn-cache; desc=MISS
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: edge; dur=7
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Server-Timing: origin; dur=619
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << X-Akamai-Staging: ESSL
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: _abck=37938097FE32F552D2ED27FCA4A4C7AA~-1~YAAQHTUyF0Gnnlh8AQAAw8gUYwagB/jZBpYXk3P3l8VOKizNnjdAQ9Jpk5HFpCiEuG1//FCxp9ynBHims6g0C60yi+osoD/BI68EkEoshBwWqstHVv++U+SQkCJqRPLfAjyO7M7oxf7umf/YQ5QdSwQko3e7+oy8QHsqEuQPEMwAjUKieSXQEDZURdCBZ6N4JNzs2mIdNnIE+VH+IQA/PuMK0kYolP3weXrrORiTxFiSzM3WaBa+xw1w60296Egyy9zMIvK1ZpGiIpeoavKba/hagWhk2aA+6P00cL/CpRnG9n+87Xz0I7BAiONwPYxHshXROTZQeVPfLWqluJU0/YTP6qwiAByl/HTO1uxCtZQxHSlFLpFi0ftVdF0+~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure
+10-08-2021 23:24:38 DefaultClientConnection.java DEBUG [main] http.headers 265 - << Set-Cookie: bm_sz=4B7C1EC04A10E056E46258AD6FAC1E3B~YAAQHTUyF0Knnlh8AQAAw8gUYw2c5AAFYQmfqszhkw81SEYsxPAO3/gFjdu59t6sElvId6sUbbkYMUykkxv/sSCG+VAsi8UgYlyQxuPx7ZoHLdlM9fzAE1acIX50FWqQhjaY6pJcAVbvYK3Vc99qJsiUgGIoOeYmrxDXmMrtfa7YXCLKhfsayHYsErM5k5MraMI7PfJc5LIVmzM4uA0PyULY6ByEKGIyisRCXsGBrZSCeKSFy+Wj7sjUB81HUHjexi5DYJU8+O2WSD3e1ic/4RUM7UGdZOydcs6KSL5AILNwF/ICxw==~3622193~4272441; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:38 GMT; Max-Age=14400
+10-08-2021 23:24:38 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 509 - Connection can be kept alive indefinitely
+10-08-2021 23:24:38 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 545 - Parsing response as: application/json
+10-08-2021 23:24:38 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "{[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "  "loanAppResumptionInfo" : {[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "loanAppId" : 101856971,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "loanAppUuid" : "8ac5ae24-b5b0-4025-8913-c731afad69ec",[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "referrer" : "LENDING_TREE",[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "status" : "EXPIRED",[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "productType" : "PERSONAL_LOAN",[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "sourceSystem" : "PARTNER_FUNNEL_V2",[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "desiredAmount" : 25000.00,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "borrowerResumptionInfo" : {[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "      "firstName" : "Benjamin",[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "      "maskedEmail" : "q********6@upgrade.com",[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "      "ssnRequired" : false,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "      "state" : "OH",[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "      "email" : "qa.preprod210618211325366@upgrade.com"[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    },[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "coBorrowerResumptionInfo" : null,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "turnDown" : false,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "hasLogin" : false,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "availableAppImprovements" : null,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "cashOutAmount" : null,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "canAddCollateral" : false,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "rewardProgramId" : null,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "rewardProgramCode" : null,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "addon" : null,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "isMobileDiscountApplied" : null,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "    "checkingDiscountAvailable" : false[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "  },[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "  "offers" : [ ],[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "  "selectedOffer" : null,[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "  "requiredAgreements" : [ ],[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "  "resetOptions" : [ "LEAD_SECRET", "WIPE", "DEACTIVATE_USER" ],[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 73 -  << "  "originalLoanApp" : null[\n]"
+10-08-2021 23:24:38 Wire.java DEBUG [main] http.wire 87 -  << "}"
+10-08-2021 23:24:38 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@349f3ff7
+10-08-2021 23:24:38 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 225 - Connection can be kept alive indefinitely
+HTTP/1.1 200 OK
+Content-Type: application/json
+Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: DENY
+Server: istio-envoy
+strict-transport-security: max-age=31536000 ; includeSubDomains
+Content-Length: 1036
+Expires: Sat, 09 Oct 2021 03:24:38 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Sat, 09 Oct 2021 03:24:38 GMT
+Connection: keep-alive
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=7
+Server-Timing: origin; dur=619
+X-Akamai-Staging: ESSL
+Set-Cookie: _abck=37938097FE32F552D2ED27FCA4A4C7AA~-1~YAAQHTUyF0Gnnlh8AQAAw8gUYwagB/jZBpYXk3P3l8VOKizNnjdAQ9Jpk5HFpCiEuG1//FCxp9ynBHims6g0C60yi+osoD/BI68EkEoshBwWqstHVv++U+SQkCJqRPLfAjyO7M7oxf7umf/YQ5QdSwQko3e7+oy8QHsqEuQPEMwAjUKieSXQEDZURdCBZ6N4JNzs2mIdNnIE+VH+IQA/PuMK0kYolP3weXrrORiTxFiSzM3WaBa+xw1w60296Egyy9zMIvK1ZpGiIpeoavKba/hagWhk2aA+6P00cL/CpRnG9n+87Xz0I7BAiONwPYxHshXROTZQeVPfLWqluJU0/YTP6qwiAByl/HTO1uxCtZQxHSlFLpFi0ftVdF0+~-1~-1~-1; Domain=.credify.tech; Path=/; Expires=Sun, 09 Oct 2022 03:24:38 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=4B7C1EC04A10E056E46258AD6FAC1E3B~YAAQHTUyF0Knnlh8AQAAw8gUYw2c5AAFYQmfqszhkw81SEYsxPAO3/gFjdu59t6sElvId6sUbbkYMUykkxv/sSCG+VAsi8UgYlyQxuPx7ZoHLdlM9fzAE1acIX50FWqQhjaY6pJcAVbvYK3Vc99qJsiUgGIoOeYmrxDXmMrtfa7YXCLKhfsayHYsErM5k5MraMI7PfJc5LIVmzM4uA0PyULY6ByEKGIyisRCXsGBrZSCeKSFy+Wj7sjUB81HUHjexi5DYJU8+O2WSD3e1ic/4RUM7UGdZOydcs6KSL5AILNwF/ICxw==~3622193~4272441; Domain=.credify.tech; Path=/; Expires=Sat, 09 Oct 2021 07:24:38 GMT; Max-Age=14400
+
+{
+    "loanAppResumptionInfo": {
+        "loanAppId": 101856971,
+        "loanAppUuid": "8ac5ae24-b5b0-4025-8913-c731afad69ec",
+        "referrer": "LENDING_TREE",
+        "status": "EXPIRED",
+        "productType": "PERSONAL_LOAN",
+        "sourceSystem": "PARTNER_FUNNEL_V2",
+        "desiredAmount": 25000.00,
+        "borrowerResumptionInfo": {
+            "firstName": "Benjamin",
+            "maskedEmail": "q********6@upgrade.com",
+            "ssnRequired": false,
+            "state": "OH",
+            "email": "qa.preprod210618211325366@upgrade.com"
+        },
+        "coBorrowerResumptionInfo": null,
+        "turnDown": false,
+        "hasLogin": false,
+        "availableAppImprovements": null,
+        "cashOutAmount": null,
+        "canAddCollateral": false,
+        "rewardProgramId": null,
+        "rewardProgramCode": null,
+        "addon": null,
+        "isMobileDiscountApplied": null,
+        "checkingDiscountAvailable": false
+    },
+    "offers": [
+        
+    ],
+    "selectedOffer": null,
+    "requiredAgreements": [
+        
+    ],
+    "resetOptions": [
+        "LEAD_SECRET",
+        "WIPE",
+        "DEACTIVATE_USER"
+    ],
+    "originalLoanApp": null
+}
+]]></system-out>
+  </testcase>
+</testsuite>

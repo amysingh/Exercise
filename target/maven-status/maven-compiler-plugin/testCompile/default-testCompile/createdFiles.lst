@@ -1,0 +1,8 @@
+com\upgrade\uitests\BasicInfoCoJoinTest.class
+com\upgrade\apitest\UpgradeApiTest.class
+com\upgrade\uitests\BasicInfoIndividualTest.class
+com\upgrade\uitests\EndToEndAccountValidationTest.class
+com\upgrade\uitests\BaseTest.class
+com\upgrade\uitests\CheckRatePageInvalidLoanAmtTest.class
+com\upgrade\apitest\BaseApiTest.class
+com\upgrade\uitests\CheckRatePagevalidLoanAmtTest.class
