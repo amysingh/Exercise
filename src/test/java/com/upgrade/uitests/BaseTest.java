@@ -51,7 +51,7 @@ public class BaseTest {
     driver.manage().window().maximize();
     driver.manage().timeouts().implicitlyWait(TestUtils.IMPLICIT_TIMEOUT, TimeUnit.SECONDS);
     driver.manage().timeouts().pageLoadTimeout(TestUtils.IMPLICIT_TIMEOUT, TimeUnit.SECONDS);
-    driver.get(ConfigManager.getInstance().getMainUrl());
+    driver.get(System.getProperty("url"));
     page = new BasePage(driver);
   }
 
